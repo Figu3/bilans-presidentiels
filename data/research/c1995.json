@@ -1,0 +1,1054 @@
+{
+ "eng": [
+  {
+   "n": 1,
+   "theme": "Société",
+   "engagement": "Réduire la « fracture sociale », thème central de la campagne",
+   "statut": "non_tenu",
+   "note": "Dès le 26 octobre 1995 la priorité passe à la réduction des déficits ; en 2009, 66 % des sondés (BVA) se disent insatisfaits de son action contre la fracture sociale.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+    "https://www.publicsenat.fr/actualites/politique/serie-1995-la-fracture-sociale-et-des-pommes-191594",
+    "https://acteurspublics.fr/articles/la-vie-politique-en-octobre-1995-le-tournant-de-jacques-chirac/",
+    "https://www.elysee.fr/jacques-chirac/1995/10/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-octobre-1995-sur-la-priorite-a-la-reduction-des-deficits-publics-et-a-la-maitrise-des-depenses-de-sante-et-sur-la-lutte-contre-lexclusion-sociale"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Jacques Chirac (bilan)",
+     "url": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Public Sénat, série 1995 (2021)",
+     "url": "https://www.publicsenat.fr/actualites/politique/serie-1995-la-fracture-sociale-et-des-pommes-191594",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Acteurs publics, le tournant d'octobre 1995",
+     "url": "https://acteurspublics.fr/articles/la-vie-politique-en-octobre-1995-le-tournant-de-jacques-chirac/",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Élysée, interview à France 2 du 26 octobre 1995",
+     "url": "https://www.elysee.fr/jacques-chirac/1995/10/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-octobre-1995-sur-la-priorite-a-la-reduction-des-deficits-publics-et-a-la-maitrise-des-depenses-de-sante-et-sur-la-lutte-contre-lexclusion-sociale",
+     "statut": null
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 2,
+   "theme": "Fiscalité",
+   "engagement": "Baisser les impôts et les prélèvements obligatoires",
+   "statut": "non_tenu",
+   "note": "Recettes fiscales et sociales passées de 44,1 % du PIB en 1995 à 46,1 % en 1999 puis 44,4 % en 2002 (Eurostat) ; baisses engagées surtout par le gouvernement Jospin à partir de 2000.",
+   "sources": [
+    "https://www.larousse.fr/archives/journaux_annee/1996/97/la_grande_illusion",
+    "https://db.nomics.world/Eurostat/gov_10a_taxag/A.PC_GDP.S13_S212.D2_D5_D91_D61_M_D995.FR",
+    "https://fr.wikipedia.org/wiki/Jacques_Chirac"
+   ],
+   "verdicts": [
+    {
+     "src": "Larousse, Journal de l'année 1996 (propositions du 17 février 1995)",
+     "url": "https://www.larousse.fr/archives/journaux_annee/1996/97/la_grande_illusion",
+     "statut": null
+    },
+    {
+     "src": "Eurostat via DBnomics, recettes fiscales et sociales",
+     "url": "https://db.nomics.world/Eurostat/gov_10a_taxag/A.PC_GDP.S13_S212.D2_D5_D91_D61_M_D995.FR",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Wikipédia FR, Jacques Chirac (bilan)",
+     "url": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 3,
+   "theme": "Fiscalité",
+   "engagement": "Ne pas alourdir les impôts (« trop d'impôt tue l'impôt »)",
+   "statut": "non_tenu",
+   "note": "LFR de l'été 1995 : TVA portée de 18,6 % à 20,6 % au 1er août, surtaxe de 10 % de l'impôt sur les sociétés et de l'ISF, puis CRDS créée par l'ordonnance du 24 janvier 1996.",
+   "sources": [
+    "https://www.larousse.fr/archives/journaux_annee/1996/156/l_annee_economique_en_france",
+    "https://www.universalis.fr/encyclopedie/cinquieme-republique-les-annees-chirac-1995-2007/3-vote-sanction-lors-des-legislatives-anticipees-de-1997/",
+    "https://fr.wikipedia.org/wiki/Contribution_pour_le_remboursement_de_la_dette_sociale"
+   ],
+   "verdicts": [
+    {
+     "src": "Larousse, Journal de l'année 1996 (économie)",
+     "url": "https://www.larousse.fr/archives/journaux_annee/1996/156/l_annee_economique_en_france",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Encyclopædia Universalis, les années Chirac",
+     "url": "https://www.universalis.fr/encyclopedie/cinquieme-republique-les-annees-chirac-1995-2007/3-vote-sanction-lors-des-legislatives-anticipees-de-1997/",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Contribution_pour_le_remboursement_de_la_dette_sociale",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 4,
+   "theme": "Fiscalité",
+   "engagement": "Réduire l'impôt sur le revenu",
+   "statut": "partiel",
+   "note": "Plan Juppé de septembre 1996 visant une baisse d'un quart en cinq ans, dont seule la première étape (1997) est appliquée avant la dissolution ; le gouvernement Jospin baisse le barème de 2000 à 2002.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/220402-interviews-de-m-jacques-chirac-depute-rpr-maire-de-paris-et-candidat",
+    "https://www.irishtimes.com/business/juppe-aims-to-give-3bn-back-in-tax-reform-1.83688",
+    "https://www.senat.fr/rap/r02-343/r02-34312.html",
+    "https://fr.wikipedia.org/wiki/Gouvernement_Jospin"
+   ],
+   "verdicts": [
+    {
+     "src": "Les Échos et Nouvel Observateur, janvier 1995 (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/220402-interviews-de-m-jacques-chirac-depute-rpr-maire-de-paris-et-candidat",
+     "statut": null
+    },
+    {
+     "src": "Irish Times, 6 septembre 1996",
+     "url": "https://www.irishtimes.com/business/juppe-aims-to-give-3bn-back-in-tax-reform-1.83688",
+     "statut": null
+    },
+    {
+     "src": "Sénat, rapport d'information r02-343",
+     "url": "https://www.senat.fr/rap/r02-343/r02-34312.html",
+     "statut": "partiel"
+    },
+    {
+     "src": "Wikipédia FR, Gouvernement Jospin",
+     "url": "https://fr.wikipedia.org/wiki/Gouvernement_Jospin",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 5,
+   "theme": "Emploi",
+   "engagement": "Faire de l'emploi la priorité et faire reculer le chômage",
+   "statut": "partiel",
+   "note": "Chômage à 11,3 % en 1995, en hausse jusqu'en 1997, puis en baisse de 3,2 points entre 1997 et 2001 (7,7 %), essentiellement pendant la cohabitation avec Jospin.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+    "https://fr.wikipedia.org/wiki/Histoire_du_ch%C3%B4mage_en_France",
+    "https://www.larousse.fr/archives/journaux_annee/1996/156/l_annee_economique_en_france"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Jacques Chirac (bilan)",
+     "url": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+     "statut": "partiel"
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Histoire_du_ch%C3%B4mage_en_France",
+     "statut": "partiel"
+    },
+    {
+     "src": "Larousse, Journal de l'année 1996 (économie)",
+     "url": "https://www.larousse.fr/archives/journaux_annee/1996/156/l_annee_economique_en_france",
+     "statut": "partiel"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 6,
+   "theme": "Emploi",
+   "engagement": "Créer un contrat initiative-emploi : prime et exonération de charges pour embaucher un chômeur de longue durée",
+   "statut": "tenu",
+   "note": "Loi n° 95-881 du 4 août 1995 instituant le CIE, décret du 19 août 1995 ; le ministre revendique 50 000 chômeurs de longue durée en moins en 1996.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/220199-interview-de-m-jacques-chirac-depute-rpr-maire-de-paris-et-candidat",
+    "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1665.pdf",
+    "https://www.dares.travail-emploi.gouv.fr/sites/default/files/4f17b652d281f7412eff7cb89dbc1be2/Dares_Les%20contrats%20initiative%20emploi%20en%201995.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Le Parisien, 13 mars 1995 (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/220199-interview-de-m-jacques-chirac-depute-rpr-maire-de-paris-et-candidat",
+     "statut": null
+    },
+    {
+     "src": "Assemblée nationale, question au gouvernement n° 1665 (1996)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1665.pdf",
+     "statut": "tenu"
+    },
+    {
+     "src": "Dares, Les contrats initiative emploi en 1995",
+     "url": "https://www.dares.travail-emploi.gouv.fr/sites/default/files/4f17b652d281f7412eff7cb89dbc1be2/Dares_Les%20contrats%20initiative%20emploi%20en%201995.pdf",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 7,
+   "theme": "Emploi",
+   "engagement": "Réduire très largement les cotisations sociales pesant sur le travail peu qualifié",
+   "statut": "tenu",
+   "note": "Les majorations de juillet 1995 de l'allègement sur les bas salaires ont permis une forte baisse des charges au niveau du SMIC.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/221514-jacques-chirac-27031995-lutte-contre-lexclusion",
+    "https://www.vie-publique.fr/files/rapport/pdf/024000304.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Discours du 27 mars 1995 sur l'exclusion (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/221514-jacques-chirac-27031995-lutte-contre-lexclusion",
+     "statut": null
+    },
+    {
+     "src": "Rapport au Premier ministre sur l'allègement des charges sur les bas salaires (vie-publique)",
+     "url": "https://www.vie-publique.fr/files/rapport/pdf/024000304.pdf",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 8,
+   "theme": "Emploi",
+   "engagement": "Faire de l'emploi des jeunes une priorité",
+   "statut": "partiel",
+   "note": "CIE ouvert aux jeunes sans formation en 1996 ; les emplois-jeunes (loi n° 97-940 du 16 octobre 1997, 380 000 contrats en 2002) relèvent du gouvernement Jospin.",
+   "sources": [
+    "https://acteurspublics.fr/articles/la-campagne-en-avril-1995-loperation-jeunes-de-chirac/",
+    "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1665.pdf",
+    "https://fr.wikipedia.org/wiki/Emplois-jeunes"
+   ],
+   "verdicts": [
+    {
+     "src": "Acteurs publics, l'opération jeunes d'avril 1995",
+     "url": "https://acteurspublics.fr/articles/la-campagne-en-avril-1995-loperation-jeunes-de-chirac/",
+     "statut": null
+    },
+    {
+     "src": "Assemblée nationale, question au gouvernement n° 1665 (1996)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1665.pdf",
+     "statut": "partiel"
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Emplois-jeunes",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 9,
+   "theme": "Économie",
+   "engagement": "Mener une politique salariale favorable au pouvoir d'achat (« la feuille de paye n'est pas l'ennemie de l'emploi »)",
+   "statut": "partiel",
+   "note": "SMIC relevé de 4 % au 1er juillet 1995, mais gel des salaires des fonctionnaires annoncé à l'automne 1995 avec le plan Juppé.",
+   "sources": [
+    "https://www.institutmontaigne.org/expressions/jacques-chirac-et-leconomie-relation-conflictuelle-et-bilan-mitige",
+    "https://www.universalis.fr/evenement/22-juin-1995-presentation-du-collectif-budgetaire/",
+    "https://fr.wikipedia.org/wiki/Jacques_Chirac"
+   ],
+   "verdicts": [
+    {
+     "src": "Institut Montaigne, E. Chaney (2019)",
+     "url": "https://www.institutmontaigne.org/expressions/jacques-chirac-et-leconomie-relation-conflictuelle-et-bilan-mitige",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Encyclopædia Universalis, collectif budgétaire du 22 juin 1995",
+     "url": "https://www.universalis.fr/evenement/22-juin-1995-presentation-du-collectif-budgetaire/",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR, Jacques Chirac (bilan)",
+     "url": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 10,
+   "theme": "Économie",
+   "engagement": "Réduire les déficits publics pour qualifier la France à la monnaie unique",
+   "statut": "tenu",
+   "note": "Déficit ramené à 3,0 % du PIB en 1997 selon l'Insee de mars 1998, grâce à la soulte de France Télécom (3,7 % en comptes révisés Eurostat) ; qualification le 2 mai 1998.",
+   "sources": [
+    "https://www.institutmontaigne.org/expressions/jacques-chirac-et-leconomie-relation-conflictuelle-et-bilan-mitige",
+    "https://fr.wikipedia.org/wiki/Union_%C3%A9conomique_et_mon%C3%A9taire_(Union_europ%C3%A9enne)",
+    "https://db.nomics.world/Eurostat/gov_10a_main/A.PC_GDP.S13.B9.FR"
+   ],
+   "verdicts": [
+    {
+     "src": "Institut Montaigne, E. Chaney (2019)",
+     "url": "https://www.institutmontaigne.org/expressions/jacques-chirac-et-leconomie-relation-conflictuelle-et-bilan-mitige",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Union_%C3%A9conomique_et_mon%C3%A9taire_(Union_europ%C3%A9enne)",
+     "statut": "tenu"
+    },
+    {
+     "src": "Eurostat via DBnomics, solde public",
+     "url": "https://db.nomics.world/Eurostat/gov_10a_main/A.PC_GDP.S13.B9.FR",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 11,
+   "theme": "Économie",
+   "engagement": "Remettre en ordre les dépenses publiques",
+   "statut": "partiel",
+   "note": "Dépense publique passée de 56,1 % du PIB en 1995 à 52,6 % en 2000 puis 53,9 % en 2002 (Eurostat), la baisse intervenant surtout pendant la croissance de 1998-2000.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/220589-declarations-de-m-jacques-chirac-depute-rpr-maire-de-paris-et-candidat",
+    "https://db.nomics.world/Eurostat/gov_10a_main/A.PC_GDP.S13.TE.FR"
+   ],
+   "verdicts": [
+    {
+     "src": "Discours d'Épinal, mars 1995 (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/220589-declarations-de-m-jacques-chirac-depute-rpr-maire-de-paris-et-candidat",
+     "statut": null
+    },
+    {
+     "src": "Eurostat via DBnomics, dépense publique",
+     "url": "https://db.nomics.world/Eurostat/gov_10a_main/A.PC_GDP.S13.TE.FR",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 12,
+   "theme": "Économie",
+   "engagement": "Affecter les recettes des privatisations au désendettement de l'État",
+   "statut": "non_tenu",
+   "note": "Malgré les privatisations (Pechiney, Usinor 1995, AGF 1996, Bull 1997), la dette publique passe de 57,8 % du PIB fin 1995 à 61,3 % fin 2002 (Insee, base 2020).",
+   "sources": [
+    "https://www.vie-publique.fr/discours/220589-declarations-de-m-jacques-chirac-depute-rpr-maire-de-paris-et-candidat",
+    "https://www.insee.fr/fr/statistiques/2830301",
+    "https://db.nomics.world/INSEE/DETTE-TRIM-APU-2020/T.DETTE_MAASTRICHT.S13.F.PROPORTION.FE.POURCENT.BRUT.2020.FALSE",
+    "https://fr.wikipedia.org/wiki/Jacques_Chirac"
+   ],
+   "verdicts": [
+    {
+     "src": "Discours d'Épinal, mars 1995 (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/220589-declarations-de-m-jacques-chirac-depute-rpr-maire-de-paris-et-candidat",
+     "statut": null
+    },
+    {
+     "src": "Insee, dette trimestrielle au sens de Maastricht",
+     "url": "https://www.insee.fr/fr/statistiques/2830301",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Insee via DBnomics, série de dette",
+     "url": "https://db.nomics.world/INSEE/DETTE-TRIM-APU-2020/T.DETTE_MAASTRICHT.S13.F.PROPORTION.FE.POURCENT.BRUT.2020.FALSE",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Wikipédia FR, Jacques Chirac (bilan)",
+     "url": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 13,
+   "theme": "Économie",
+   "engagement": "Poursuivre les privatisations",
+   "statut": "tenu",
+   "note": "Privatisations de Pechiney et Usinor-Sacilor (1995), AGF, CGM et BFCE (1996), Bull (1997), avant les ouvertures de capital du gouvernement Jospin.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Jacques_Chirac"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Jacques Chirac (bilan)",
+     "url": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 14,
+   "theme": "Europe/International",
+   "engagement": "Faire la monnaie unique européenne dans le calendrier du traité de Maastricht",
+   "statut": "tenu",
+   "note": "France qualifiée le 2 mai 1998, euro introduit le 1er janvier 1999 et en pièces et billets en 2002.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Union_%C3%A9conomique_et_mon%C3%A9taire_(Union_europ%C3%A9enne)",
+    "https://www.institutmontaigne.org/expressions/jacques-chirac-et-leconomie-relation-conflictuelle-et-bilan-mitige",
+    "https://www.elysee.fr/jacques-chirac/1995/10/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-octobre-1995-sur-la-priorite-a-la-reduction-des-deficits-publics-et-a-la-maitrise-des-depenses-de-sante-et-sur-la-lutte-contre-lexclusion-sociale"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Union_%C3%A9conomique_et_mon%C3%A9taire_(Union_europ%C3%A9enne)",
+     "statut": "tenu"
+    },
+    {
+     "src": "Institut Montaigne, E. Chaney (2019)",
+     "url": "https://www.institutmontaigne.org/expressions/jacques-chirac-et-leconomie-relation-conflictuelle-et-bilan-mitige",
+     "statut": "tenu"
+    },
+    {
+     "src": "Élysée, interview à France 2 du 26 octobre 1995",
+     "url": "https://www.elysee.fr/jacques-chirac/1995/10/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-octobre-1995-sur-la-priorite-a-la-reduction-des-deficits-publics-et-a-la-maitrise-des-depenses-de-sante-et-sur-la-lutte-contre-lexclusion-sociale",
+     "statut": null
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 15,
+   "theme": "Santé",
+   "engagement": "Sauvegarder la Sécurité sociale par une réforme structurelle",
+   "statut": "partiel",
+   "note": "Plan Juppé du 15 novembre 1995 : lois de financement de la Sécurité sociale (révision du 22 février 1996) et ordonnances de 1996 appliquées, volet retraites retiré le 15 décembre 1995.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Plan_Jupp%C3%A9_de_1995",
+    "https://www.institutmontaigne.org/expressions/jacques-chirac-et-leconomie-relation-conflictuelle-et-bilan-mitige",
+    "https://www.elysee.fr/jacques-chirac/1995/10/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-octobre-1995-sur-la-priorite-a-la-reduction-des-deficits-publics-et-a-la-maitrise-des-depenses-de-sante-et-sur-la-lutte-contre-lexclusion-sociale"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Plan_Jupp%C3%A9_de_1995",
+     "statut": "partiel"
+    },
+    {
+     "src": "Institut Montaigne, E. Chaney (2019)",
+     "url": "https://www.institutmontaigne.org/expressions/jacques-chirac-et-leconomie-relation-conflictuelle-et-bilan-mitige",
+     "statut": "partiel"
+    },
+    {
+     "src": "Élysée, interview à France 2 du 26 octobre 1995",
+     "url": "https://www.elysee.fr/jacques-chirac/1995/10/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-octobre-1995-sur-la-priorite-a-la-reduction-des-deficits-publics-et-a-la-maitrise-des-depenses-de-sante-et-sur-la-lutte-contre-lexclusion-sociale",
+     "statut": null
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 16,
+   "theme": "Santé",
+   "engagement": "Généraliser l'affiliation automatique des plus démunis à la Sécurité sociale et la gratuité des soins",
+   "statut": "tenu",
+   "note": "Réalisé par le gouvernement Jospin : loi du 27 juillet 1999 créant la CMU et la CMU complémentaire, en vigueur le 1er janvier 2000.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/221514-jacques-chirac-27031995-lutte-contre-lexclusion",
+    "https://fr.wikipedia.org/wiki/Couverture_maladie_universelle"
+   ],
+   "verdicts": [
+    {
+     "src": "Discours du 27 mars 1995 sur l'exclusion (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/221514-jacques-chirac-27031995-lutte-contre-lexclusion",
+     "statut": null
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Couverture_maladie_universelle",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 17,
+   "theme": "Santé",
+   "engagement": "Créer une prestation d'autonomie pour les personnes âgées dépendantes",
+   "statut": "partiel",
+   "note": "Loi du 24 janvier 1997 créant une prestation spécifique dépendance moins avantageuse « dans l'attente » de la prestation d'autonomie, finalement l'APA du gouvernement Jospin en 2002.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/1995/10/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-octobre-1995-sur-la-priorite-a-la-reduction-des-deficits-publics-et-a-la-maitrise-des-depenses-de-sante-et-sur-la-lutte-contre-lexclusion-sociale",
+    "https://fr.wikipedia.org/wiki/Branche_autonomie",
+    "https://fr.wikipedia.org/wiki/D%C3%A9pendance_(autonomie)",
+    "https://fr.wikipedia.org/wiki/Allocation_personnalis%C3%A9e_d%27autonomie"
+   ],
+   "verdicts": [
+    {
+     "src": "Élysée, interview à France 2 du 26 octobre 1995",
+     "url": "https://www.elysee.fr/jacques-chirac/1995/10/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-octobre-1995-sur-la-priorite-a-la-reduction-des-deficits-publics-et-a-la-maitrise-des-depenses-de-sante-et-sur-la-lutte-contre-lexclusion-sociale",
+     "statut": null
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Branche_autonomie",
+     "statut": "partiel"
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/D%C3%A9pendance_(autonomie)",
+     "statut": "partiel"
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Allocation_personnalis%C3%A9e_d%27autonomie",
+     "statut": "partiel"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 18,
+   "theme": "Société",
+   "engagement": "Proposer rapidement au Parlement une grande loi d'orientation contre l'exclusion",
+   "statut": "partiel",
+   "note": "Projet Juppé sur la cohésion sociale interrompu par la dissolution du 21 avril 1997 ; la loi d'orientation contre les exclusions est votée sous Jospin le 29 juillet 1998.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/221514-jacques-chirac-27031995-lutte-contre-lexclusion",
+    "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1665.pdf",
+    "https://archives.assemblee-nationale.fr/10/cri/1996-1997-ordinaire1/160.pdf",
+    "https://fr.wikipedia.org/wiki/Gouvernement_Jospin"
+   ],
+   "verdicts": [
+    {
+     "src": "Discours du 27 mars 1995 sur l'exclusion (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/221514-jacques-chirac-27031995-lutte-contre-lexclusion",
+     "statut": null
+    },
+    {
+     "src": "Assemblée nationale, question au gouvernement n° 1665 (1996)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1665.pdf",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Assemblée nationale, compte rendu d'avril 1997",
+     "url": "https://archives.assemblee-nationale.fr/10/cri/1996-1997-ordinaire1/160.pdf",
+     "statut": "partiel"
+    },
+    {
+     "src": "Wikipédia FR, Gouvernement Jospin",
+     "url": "https://fr.wikipedia.org/wiki/Gouvernement_Jospin",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 19,
+   "theme": "Société",
+   "engagement": "Créer auprès du Premier ministre une structure d'impulsion et un observatoire de l'exclusion",
+   "statut": "partiel",
+   "note": "Secrétariat d'État à l'action humanitaire d'urgence confié à Xavier Emmanuelli (1995-1997) ; l'Observatoire national de la pauvreté et de l'exclusion sociale naît de la loi du 29 juillet 1998.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/221514-jacques-chirac-27031995-lutte-contre-lexclusion",
+    "https://fr.wikipedia.org/wiki/Xavier_Emmanuelli",
+    "https://fr.wikipedia.org/wiki/Observatoire_national_de_la_pauvret%C3%A9_et_de_l%27exclusion_sociale"
+   ],
+   "verdicts": [
+    {
+     "src": "Discours du 27 mars 1995 sur l'exclusion (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/221514-jacques-chirac-27031995-lutte-contre-lexclusion",
+     "statut": null
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Xavier_Emmanuelli",
+     "statut": "partiel"
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Observatoire_national_de_la_pauvret%C3%A9_et_de_l%27exclusion_sociale",
+     "statut": "partiel"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 20,
+   "theme": "Société",
+   "engagement": "Relancer l'emploi et l'activité dans les quartiers difficiles",
+   "statut": "tenu",
+   "note": "Pacte de relance pour la ville de janvier 1996 et loi n° 96-987 du 14 novembre 1996 créant 44 zones franches urbaines.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/1995/10/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-octobre-1995-sur-la-priorite-a-la-reduction-des-deficits-publics-et-a-la-maitrise-des-depenses-de-sante-et-sur-la-lutte-contre-lexclusion-sociale",
+    "https://fr.wikipedia.org/wiki/Politique_de_la_ville",
+    "https://fr.wikipedia.org/wiki/Zone_urbaine_sensible"
+   ],
+   "verdicts": [
+    {
+     "src": "Élysée, interview à France 2 du 26 octobre 1995",
+     "url": "https://www.elysee.fr/jacques-chirac/1995/10/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-octobre-1995-sur-la-priorite-a-la-reduction-des-deficits-publics-et-a-la-maitrise-des-depenses-de-sante-et-sur-la-lutte-contre-lexclusion-sociale",
+     "statut": null
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Politique_de_la_ville",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Zone_urbaine_sensible",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 21,
+   "theme": "Logement",
+   "engagement": "Réquisitionner les logements vacants pour loger les sans-abri",
+   "statut": "partiel",
+   "note": "Environ 1 200 logements réquisitionnés en 1995-1996 en vertu de l'ordonnance de 1945, surtout en Île-de-France, puis rendus à leurs propriétaires.",
+   "sources": [
+    "https://www.publicsenat.fr/actualites/politique/serie-1995-la-fracture-sociale-et-des-pommes-191594",
+    "https://www.maire-info.com/droit-au-logement-%28dal%29-organise-ce-mercredi-son-premier-%22reveillon-des-sans-logis%22-%C3%A0-c%C3%B4te-du-ministere-de-la-ville-article2-3803",
+    "https://www.ifrap.org/emploi-et-politiques-sociales/la-cour-des-comptes-demystifie-les-logements-vacants-comme-solution-la-crise-du-logement"
+   ],
+   "verdicts": [
+    {
+     "src": "Public Sénat, série 1995 (2021)",
+     "url": "https://www.publicsenat.fr/actualites/politique/serie-1995-la-fracture-sociale-et-des-pommes-191594",
+     "statut": null
+    },
+    {
+     "src": "Maire-info",
+     "url": "https://www.maire-info.com/droit-au-logement-%28dal%29-organise-ce-mercredi-son-premier-%22reveillon-des-sans-logis%22-%C3%A0-c%C3%B4te-du-ministere-de-la-ville-article2-3803",
+     "statut": "partiel"
+    },
+    {
+     "src": "Fondation iFRAP",
+     "url": "https://www.ifrap.org/emploi-et-politiques-sociales/la-cour-des-comptes-demystifie-les-logements-vacants-comme-solution-la-crise-du-logement",
+     "statut": "partiel"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 22,
+   "theme": "Logement",
+   "engagement": "Multiplier les logements d'urgence et d'insertion",
+   "statut": "tenu",
+   "note": "Plan de juin 1995 de 20 000 logements d'urgence et d'insertion, dont le ministre revendique la réalisation en dix-huit mois, bilan contesté par l'opposition.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/221514-jacques-chirac-27031995-lutte-contre-lexclusion",
+    "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1246.pdf",
+    "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1932.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Discours du 27 mars 1995 sur l'exclusion (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/221514-jacques-chirac-27031995-lutte-contre-lexclusion",
+     "statut": null
+    },
+    {
+     "src": "Assemblée nationale, question au gouvernement n° 1246 (1995)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1246.pdf",
+     "statut": "partiel"
+    },
+    {
+     "src": "Assemblée nationale, question au gouvernement n° 1932 (1996)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1932.pdf",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 23,
+   "theme": "Logement",
+   "engagement": "Aider les ménages modestes à accéder à la propriété",
+   "statut": "tenu",
+   "note": "Prêt à taux zéro créé en 1995 par Pierre-André Périssol ; 20 000 offres de prêt dans les deux premiers mois selon le ministre.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Pr%C3%AAt_%C3%A0_taux_z%C3%A9ro_en_France",
+    "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1246.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Pr%C3%AAt_%C3%A0_taux_z%C3%A9ro_en_France",
+     "statut": "tenu"
+    },
+    {
+     "src": "Assemblée nationale, question au gouvernement n° 1246 (1995)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/10/questions/QANR5L10QG1246.pdf",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 24,
+   "theme": "Éducation",
+   "engagement": "Organiser un référendum sur l'école",
+   "statut": "non_tenu",
+   "note": "Promesse écartée dès septembre 1995 au profit d'une commission chargée d'un livre blanc ; aucun référendum sur l'éducation n'a eu lieu.",
+   "sources": [
+    "https://www.timeshighereducation.com/node/5460",
+    "https://www.timeshighereducation.com/news/referendum-opponent-gets-enlarged-ministry/98304.article"
+   ],
+   "verdicts": [
+    {
+     "src": "Times Higher Education, 22 septembre 1995",
+     "url": "https://www.timeshighereducation.com/node/5460",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Times Higher Education, 1995",
+     "url": "https://www.timeshighereducation.com/news/referendum-opponent-gets-enlarged-ministry/98304.article",
+     "statut": null
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 25,
+   "theme": "Institutions",
+   "engagement": "Élargir le champ du référendum aux réformes économiques et sociales",
+   "statut": "tenu",
+   "note": "Loi constitutionnelle n° 95-880 du 4 août 1995 (Congrès du 31 juillet 1995) modifiant l'article 11, jamais utilisé sur ce champ durant le septennat.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/201093-message-au-parlement-de-m-jacques-chirac-president-de-la-republique-s",
+    "https://fr.wikipedia.org/wiki/Article_11_de_la_Constitution_de_la_Cinqui%C3%A8me_R%C3%A9publique_fran%C3%A7aise",
+    "https://mjp.univ-perp.fr/france/co1958-9.htm"
+   ],
+   "verdicts": [
+    {
+     "src": "Message au Parlement du 19 mai 1995 (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/201093-message-au-parlement-de-m-jacques-chirac-president-de-la-republique-s",
+     "statut": null
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Article_11_de_la_Constitution_de_la_Cinqui%C3%A8me_R%C3%A9publique_fran%C3%A7aise",
+     "statut": "tenu"
+    },
+    {
+     "src": "Université de Perpignan, textes constitutionnels",
+     "url": "https://mjp.univ-perp.fr/france/co1958-9.htm",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 26,
+   "theme": "Institutions",
+   "engagement": "Instaurer une session parlementaire unique",
+   "statut": "tenu",
+   "note": "Loi constitutionnelle du 4 août 1995 créant la session ordinaire unique, loi organique validée par la décision n° 95-367 DC du 29 novembre 1995.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/201093-message-au-parlement-de-m-jacques-chirac-president-de-la-republique-s",
+    "https://mjp.univ-perp.fr/france/co1958-9.htm",
+    "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000191149"
+   ],
+   "verdicts": [
+    {
+     "src": "Message au Parlement du 19 mai 1995 (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/201093-message-au-parlement-de-m-jacques-chirac-president-de-la-republique-s",
+     "statut": null
+    },
+    {
+     "src": "Université de Perpignan, textes constitutionnels",
+     "url": "https://mjp.univ-perp.fr/france/co1958-9.htm",
+     "statut": "tenu"
+    },
+    {
+     "src": "Légifrance, décision n° 95-367 DC",
+     "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000191149",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 27,
+   "theme": "Institutions",
+   "engagement": "Rééquilibrer les pouvoirs au profit du Parlement",
+   "statut": "tenu",
+   "note": "Session unique en 1995 et vote annuel par le Parlement des lois de financement de la Sécurité sociale (révision du 22 février 1996).",
+   "sources": [
+    "https://www.vie-publique.fr/discours/220589-declarations-de-m-jacques-chirac-depute-rpr-maire-de-paris-et-candidat",
+    "https://mjp.univ-perp.fr/france/co1958-9.htm",
+    "https://fr.wikipedia.org/wiki/Plan_Jupp%C3%A9_de_1995"
+   ],
+   "verdicts": [
+    {
+     "src": "Discours d'Épinal, mars 1995 (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/220589-declarations-de-m-jacques-chirac-depute-rpr-maire-de-paris-et-candidat",
+     "statut": null
+    },
+    {
+     "src": "Université de Perpignan, textes constitutionnels",
+     "url": "https://mjp.univ-perp.fr/france/co1958-9.htm",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Plan_Jupp%C3%A9_de_1995",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 28,
+   "theme": "Institutions",
+   "engagement": "Mettre fin à la « dérive monarchique » des institutions",
+   "statut": "partiel",
+   "note": "Révision de 1995 adoptée, mais le quinquennat (référendum du 24 septembre 2000) est accepté tardivement par Chirac sous la pression de Jospin et Giscard d'Estaing.",
+   "sources": [
+    "https://www.larousse.fr/archives/journaux_annee/1996/97/la_grande_illusion",
+    "https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_constitutionnel_fran%C3%A7ais_de_2000",
+    "https://fr.wikipedia.org/wiki/Jacques_Chirac"
+   ],
+   "verdicts": [
+    {
+     "src": "Larousse, Journal de l'année 1996 (propositions du 17 février 1995)",
+     "url": "https://www.larousse.fr/archives/journaux_annee/1996/97/la_grande_illusion",
+     "statut": null
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_constitutionnel_fran%C3%A7ais_de_2000",
+     "statut": "partiel"
+    },
+    {
+     "src": "Wikipédia FR, Jacques Chirac (bilan)",
+     "url": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 29,
+   "theme": "Justice/Sécurité",
+   "engagement": "Garantir l'indépendance de la justice par la réforme du CSM",
+   "statut": "non_tenu",
+   "note": "Réforme du CSM votée par l'Assemblée et le Sénat en 1998-1999 sous la cohabitation, mais réunion du Congrès du 24 janvier 2000 annulée par Chirac.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Conseil_sup%C3%A9rieur_de_la_magistrature_(France)",
+    "https://www.vie-publique.fr/discours/135828-lettre-de-m-jacques-chirac-president-de-la-republique-adressee-m-c"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Conseil_sup%C3%A9rieur_de_la_magistrature_(France)",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Lettre de J. Chirac à C. Poncelet (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/135828-lettre-de-m-jacques-chirac-president-de-la-republique-adressee-m-c",
+     "statut": null
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 30,
+   "theme": "Justice/Sécurité",
+   "engagement": "Lutter contre l'immigration clandestine",
+   "statut": "tenu",
+   "note": "Loi Debré n° 97-396 du 24 avril 1997 sur l'entrée et le séjour des étrangers, assouplie ensuite par la loi Chevènement de 1998 sous la cohabitation.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/221189-interview-de-m-jacques-chirac-depute-rpr-et-candidat-lelection-pres",
+    "https://fr.wikipedia.org/wiki/Lois_Pasqua-Debr%C3%A9"
+   ],
+   "verdicts": [
+    {
+     "src": "France-Inter, 27 avril 1995 (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/221189-interview-de-m-jacques-chirac-depute-rpr-et-candidat-lelection-pres",
+     "statut": null
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Lois_Pasqua-Debr%C3%A9",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 31,
+   "theme": "Europe/International",
+   "engagement": "Mener une ultime campagne d'essais nucléaires avant de passer à la simulation",
+   "statut": "tenu",
+   "note": "Moratoire rompu le 13 juin 1995, six essais de septembre 1995 au 27 janvier 1996, puis démantèlement du site de Moruroa.",
+   "sources": [
+    "https://lerubicon.org/larme-nucleaire-francaise-dans-la-vie-politique-de-lapres-guerre-froide/",
+    "https://fr.wikipedia.org/wiki/Essais_nucl%C3%A9aires_fran%C3%A7ais",
+    "https://fr.wikipedia.org/wiki/Jacques_Chirac"
+   ],
+   "verdicts": [
+    {
+     "src": "Le Rubicon, F. Galleri (2025)",
+     "url": "https://lerubicon.org/larme-nucleaire-francaise-dans-la-vie-politique-de-lapres-guerre-froide/",
+     "statut": null
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Essais_nucl%C3%A9aires_fran%C3%A7ais",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR, Jacques Chirac (bilan)",
+     "url": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 32,
+   "theme": "Europe/International",
+   "engagement": "Signer le traité d'interdiction complète des essais nucléaires",
+   "statut": "tenu",
+   "note": "TICE signé le 24 septembre 1996 et ratifié par la France le 6 avril 1998.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+    "https://fr.wikipedia.org/wiki/Trait%C3%A9_d%27interdiction_compl%C3%A8te_des_essais_nucl%C3%A9aires"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Jacques Chirac (bilan)",
+     "url": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Trait%C3%A9_d%27interdiction_compl%C3%A8te_des_essais_nucl%C3%A9aires",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 33,
+   "theme": "Europe/International",
+   "engagement": "Professionnaliser les armées",
+   "statut": "tenu",
+   "note": "Décision annoncée le 22 février 1996, loi de programmation militaire n° 96-589 du 2 juillet 1996 ; engagement de campagne explicite non retrouvé.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Service_militaire_en_France",
+    "https://fr.wikipedia.org/wiki/Jacques_Chirac"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Service_militaire_en_France",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR, Jacques Chirac (bilan)",
+     "url": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 34,
+   "theme": "Société",
+   "engagement": "Réformer le service national",
+   "statut": "tenu",
+   "note": "Loi n° 97-1019 du 28 octobre 1997 suspendant l'appel sous les drapeaux et créant la JAPD, derniers appelés libérés le 30 novembre 2001.",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Service_militaire_en_France",
+    "https://acteurspublics.fr/articles/1997-le-service-national-est-suspendu/"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Service_militaire_en_France",
+     "statut": "tenu"
+    },
+    {
+     "src": "Acteurs publics",
+     "url": "https://acteurspublics.fr/articles/1997-le-service-national-est-suspendu/",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 35,
+   "theme": "Société",
+   "engagement": "Améliorer la place des femmes dans la vie politique",
+   "statut": "tenu",
+   "note": "Révision constitutionnelle du 8 juillet 1999 sur l'égal accès des femmes et des hommes aux mandats, adoptée sous la cohabitation.",
+   "sources": [
+    "https://www.vie-publique.fr/discours/221189-interview-de-m-jacques-chirac-depute-rpr-et-candidat-lelection-pres",
+    "https://fr.wikipedia.org/wiki/Article_3_de_la_Constitution_de_la_Cinqui%C3%A8me_R%C3%A9publique_fran%C3%A7aise"
+   ],
+   "verdicts": [
+    {
+     "src": "France-Inter, 27 avril 1995 (vie-publique)",
+     "url": "https://www.vie-publique.fr/discours/221189-interview-de-m-jacques-chirac-depute-rpr-et-candidat-lelection-pres",
+     "statut": null
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Article_3_de_la_Constitution_de_la_Cinqui%C3%A8me_R%C3%A9publique_fran%C3%A7aise",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  }
+ ],
+ "elu": "52,6 %",
+ "elu_t1": "20,8 %",
+ "phares": [
+  {
+   "t": "Professionnalisation des armées",
+   "d": "Annoncée le 22 février 1996, elle conduit à la suspension du service national par la loi du 28 octobre 1997."
+  },
+  {
+   "t": "Révision constitutionnelle de 1995",
+   "d": "La loi constitutionnelle du 4 août 1995 crée la session parlementaire unique et élargit le référendum aux questions économiques et sociales."
+  },
+  {
+   "t": "Plan Juppé et lois de financement de la Sécurité sociale",
+   "d": "Le Parlement vote chaque année le budget de la Sécurité sociale depuis la révision du 22 février 1996, avec la CRDS pour amortir la dette sociale."
+  },
+  {
+   "t": "Dernière campagne d'essais nucléaires",
+   "d": "Six essais menés de septembre 1995 à janvier 1996 avant la signature du TICE le 24 septembre 1996."
+  },
+  {
+   "t": "Qualification pour l'euro",
+   "d": "La France est retenue le 2 mai 1998 parmi les onze pays fondateurs de la monnaie unique lancée le 1er janvier 1999."
+  },
+  {
+   "t": "Discours du Vel d'Hiv",
+   "d": "Le 16 juillet 1995, Chirac reconnaît la responsabilité de l'État français dans la rafle de 1942."
+  }
+ ],
+ "regard": {
+  "texte": "Chirac reconnaît très tôt l'écart entre la campagne et le pouvoir : dès octobre 1995, il admet avoir sous-estimé l'ampleur des déficits et fait de leur réduction la priorité, au détriment du discours sur la fracture sociale. Dans Le Temps présidentiel (2011), qui consacre un chapitre à « l'histoire d'une dissolution », il assume seul l'échec de 1997 et refuse de désigner un bouc émissaire. Il y défend une présidence garante de la cohésion nationale, se dit moins libéral que Nicolas Sarkozy et juge que ne pas avoir formé en 2002 une équipe représentative de ses 82 % d'électeurs fut probablement une erreur. Le premier tome, Chaque pas doit être un but (2009), s'arrête à son élection de 1995.",
+  "citations": [
+   {
+    "q": "vous avez peut-être raison en disant que j'ai sous-estimé l'ampleur du problème",
+    "src": "Interview à France 2, 26 octobre 1995 (Élysée)",
+    "url": "https://www.elysee.fr/jacques-chirac/1995/10/26/interview-de-m-jacques-chirac-president-de-la-republique-a-france-2-le-26-octobre-1995-sur-la-priorite-a-la-reduction-des-deficits-publics-et-a-la-maitrise-des-depenses-de-sante-et-sur-la-lutte-contre-lexclusion-sociale"
+   },
+   {
+    "q": "Me considérant comme seul responsable de la dissolution et de son échec",
+    "src": "Le Temps présidentiel (2011), extraits AFP (Dakaractu)",
+    "url": "https://www.dakaractu.com/Chirac-morceaux-choisis-des-Memoires-d-un-president_a522.html"
+   },
+   {
+    "q": "ce fut probablement une erreur au regard de l'unité nationale dont j'étais le garant",
+    "src": "Le Temps présidentiel (2011), cité par France 24",
+    "url": "https://www.france24.com/fr/20110608-jacques-chirac-relations-nicolas-sarkozy-tome-memoires-france-politique-presidentielle"
+   }
+  ]
+ }
+}

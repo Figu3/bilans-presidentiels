@@ -1,0 +1,1186 @@
+[
+ {
+  "n": 1,
+  "theme": "Emploi",
+  "engagement": "Défiscaliser et exonérer de charges les heures supplémentaires (« travailler plus pour gagner plus »)",
+  "statut": "tenu",
+  "note": "Loi TEPA n° 2007-1223 du 21 août 2007 : heures supplémentaires exonérées d'impôt sur le revenu et de cotisations salariales.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Loi_en_faveur_du_travail,_de_l%27emploi_et_du_pouvoir_d%27achat",
+   "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees",
+   "https://fr.wikipedia.org/wiki/Heure_suppl%C3%A9mentaire"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR, loi TEPA",
+    "url": "https://fr.wikipedia.org/wiki/Loi_en_faveur_du_travail,_de_l%27emploi_et_du_pouvoir_d%27achat",
+    "statut": "tenu"
+   },
+   {
+    "src": "Nouvel Observateur, Sarkomètre mi-mandat 2009 (via Slate)",
+    "url": "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees",
+    "statut": "tenu"
+   },
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Heure_suppl%C3%A9mentaire",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 2,
+  "theme": "Fiscalité",
+  "engagement": "Abaisser le bouclier fiscal à 50 % des revenus, CSG et CRDS incluses",
+  "statut": "partiel",
+  "note": "Bouclier à 50 % adopté par la loi TEPA (août 2007), puis supprimé par la LFR du 29 juillet 2011 (effet 2013) par la même majorité.",
+  "sources": [
+   "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+   "https://fr.wikipedia.org/wiki/Bouclier_fiscal"
+  ],
+  "verdicts": [
+   {
+    "src": "Nouvel Observateur, Sarkomètre mi-mandat 2009 (via Slate)",
+    "url": "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees",
+    "statut": "tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "partiel"
+   },
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Bouclier_fiscal",
+    "statut": "partiel"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 3,
+  "theme": "Fiscalité",
+  "engagement": "Exonérer de droits de succession l'immense majorité des successions",
+  "statut": "tenu",
+  "note": "Loi TEPA (août 2007) : exonération du conjoint survivant et abattement relevé à 150 000 € par enfant ; durcissement partiel par la LFR de juillet 2011.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Loi_en_faveur_du_travail,_de_l%27emploi_et_du_pouvoir_d%27achat",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR, loi TEPA",
+    "url": "https://fr.wikipedia.org/wiki/Loi_en_faveur_du_travail,_de_l%27emploi_et_du_pouvoir_d%27achat",
+    "statut": "tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "partiel"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 4,
+  "theme": "Logement",
+  "engagement": "Rendre déductibles de l'impôt les intérêts d'emprunt immobilier de la résidence principale",
+  "statut": "partiel",
+  "note": "Crédit d'impôt créé par la loi TEPA, censuré pour les prêts déjà en cours (Conseil constitutionnel, août 2007), puis supprimé par la loi de finances pour 2011 au profit du PTZ+.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Loi_en_faveur_du_travail,_de_l%27emploi_et_du_pouvoir_d%27achat",
+   "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE87004.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR, loi TEPA",
+    "url": "https://fr.wikipedia.org/wiki/Loi_en_faveur_du_travail,_de_l%27emploi_et_du_pouvoir_d%27achat",
+    "statut": "partiel"
+   },
+   {
+    "src": "Assemblée nationale, question écrite 13e législature",
+    "url": "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE87004.pdf",
+    "statut": "partiel"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 5,
+  "theme": "Fiscalité",
+  "engagement": "Permettre d'investir une part de son ISF dans les PME",
+  "statut": "tenu",
+  "note": "Loi TEPA (août 2007) : réduction d'ISF pour souscription au capital de PME (dispositif « ISF-PME »).",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Loi_en_faveur_du_travail,_de_l%27emploi_et_du_pouvoir_d%27achat",
+   "https://fr.wikipedia.org/wiki/Imp%C3%B4t_de_solidarit%C3%A9_sur_la_fortune"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR, loi TEPA",
+    "url": "https://fr.wikipedia.org/wiki/Loi_en_faveur_du_travail,_de_l%27emploi_et_du_pouvoir_d%27achat",
+    "statut": "tenu"
+   },
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Imp%C3%B4t_de_solidarit%C3%A9_sur_la_fortune",
+    "statut": "tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 6,
+  "theme": "Fiscalité",
+  "engagement": "Baisser de 4 points de PIB les prélèvements obligatoires en dix ans",
+  "statut": "non_tenu",
+  "note": "Selon l'Insee, le taux de prélèvements obligatoires atteint 44,9 % du PIB en 2012, en hausse de 1,2 point sur un an.",
+  "sources": [
+   "https://www.insee.fr/fr/statistiques/fichier/version-html/1563480/Apu2012.pdf",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Insee, comptes des APU 2012",
+    "url": "https://www.insee.fr/fr/statistiques/fichier/version-html/1563480/Apu2012.pdf",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 7,
+  "theme": "Fiscalité",
+  "engagement": "Appliquer la TVA à 5,5 % dans la restauration",
+  "statut": "tenu",
+  "note": "Taux réduit de 5,5 % appliqué à la restauration à partir de juillet 2009 ; la Cour des comptes l'a jugé coûteux et peu efficace en 2015.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR, Présidence de Nicolas Sarkozy",
+    "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+    "statut": "tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 8,
+  "theme": "Fiscalité",
+  "engagement": "Instaurer une TVA sociale pour financer la protection sociale",
+  "statut": "partiel",
+  "note": "LFR du 14 mars 2012 : TVA portée à 21,2 % au 1er octobre 2012 contre baisse des cotisations famille, abrogée par la LFR d'août 2012 avant toute application.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/TVA_sociale",
+   "https://conferenceconsensuslogement.senat.fr/rap/a11-691/a11-6911.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/TVA_sociale",
+    "statut": "partiel"
+   },
+   {
+    "src": "Sénat, avis sur la LFR 2012",
+    "url": "https://conferenceconsensuslogement.senat.fr/rap/a11-691/a11-6911.pdf",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 9,
+  "theme": "Emploi",
+  "engagement": "Ramener le chômage à 5 % (plein emploi) en fin de quinquennat",
+  "statut": "non_tenu",
+  "note": "Le chômage approche 10 % début 2012 ; plus d'un million de chômeurs supplémentaires sur le quinquennat.",
+  "sources": [
+   "https://www.slate.fr/story/54339/sarkozy-chiffres-chomage",
+   "https://www.letemps.ch/monde/qua-defait-nicolas-sarkozy",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+   "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees"
+  ],
+  "verdicts": [
+   {
+    "src": "Slate, « Chômage : Sarkozy mise tout sur le 5, c'est le 10 qui sort »",
+    "url": "https://www.slate.fr/story/54339/sarkozy-chiffres-chomage",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Le Temps, bilan 2012",
+    "url": "https://www.letemps.ch/monde/qua-defait-nicolas-sarkozy",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Nouvel Observateur, Sarkomètre mi-mandat 2009 (via Slate)",
+    "url": "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 10,
+  "theme": "Emploi",
+  "engagement": "Créer un contrat de travail unique remplaçant CDD et CDI",
+  "statut": "non_tenu",
+  "note": "Jamais créé ; l'ANI du 11 janvier 2008 et la loi du 25 juin 2008 ont instauré à la place la rupture conventionnelle.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Contrat_de_travail_unique",
+   "https://www.ifrap.org/emploi-et-politiques-sociales/le-contrat-de-travail-unique-une-piste-explorer"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Contrat_de_travail_unique",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Fondation iFRAP",
+    "url": "https://www.ifrap.org/emploi-et-politiques-sociales/le-contrat-de-travail-unique-une-piste-explorer",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 11,
+  "theme": "Emploi",
+  "engagement": "Fusionner l'ANPE et l'Unédic-Assedic en un opérateur unique",
+  "statut": "tenu",
+  "note": "Loi du 13 février 2008 ; Pôle emploi opérationnel fin 2008.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/P%C3%B4le_emploi",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/P%C3%B4le_emploi",
+    "statut": "tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 12,
+  "theme": "Emploi",
+  "engagement": "Sanctionner le chômeur refusant deux offres d'emploi valables",
+  "statut": "tenu",
+  "note": "Loi du 1er août 2008 sur les droits et devoirs des demandeurs d'emploi (« offre raisonnable d'emploi »).",
+  "sources": [
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 13,
+  "theme": "Emploi",
+  "engagement": "Généraliser le revenu de solidarité active (RSA)",
+  "statut": "tenu",
+  "note": "Loi du 1er décembre 2008 ; RSA généralisé le 1er juin 2009 en remplacement du RMI et de l'API.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Revenu_de_solidarit%C3%A9_active",
+   "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Revenu_de_solidarit%C3%A9_active",
+    "statut": "tenu"
+   },
+   {
+    "src": "Wikipédia FR, Présidence de Nicolas Sarkozy",
+    "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 14,
+  "theme": "Économie",
+  "engagement": "Être le « président du pouvoir d'achat »",
+  "statut": "non_tenu",
+  "note": "La progression du pouvoir d'achat a fléchi pendant le quinquennat, crise de 2008-2009 comprise.",
+  "sources": [
+   "https://www.letemps.ch/monde/qua-defait-nicolas-sarkozy",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Le Temps, bilan 2012 (AFP)",
+    "url": "https://www.letemps.ch/monde/qua-defait-nicolas-sarkozy",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "partiel"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 15,
+  "theme": "Économie",
+  "engagement": "Ramener la dette publique sous 60 % du PIB",
+  "statut": "non_tenu",
+  "note": "Dette passée d'environ 64-65 % du PIB en 2007 à 90,2 % fin 2012 (Insee).",
+  "sources": [
+   "https://www.insee.fr/fr/statistiques/1288370",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+   "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees"
+  ],
+  "verdicts": [
+   {
+    "src": "Insee, dette et déficit",
+    "url": "https://www.insee.fr/fr/statistiques/1288370",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Nouvel Observateur, Sarkomètre mi-mandat 2009 (via Slate)",
+    "url": "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 16,
+  "theme": "Économie",
+  "engagement": "Réduire le déficit public et revenir à l'équilibre",
+  "statut": "non_tenu",
+  "note": "Déficit public de 7,5 % du PIB en 2009, 5,3 % en 2011 et 4,8 % en 2012 (Insee).",
+  "sources": [
+   "https://www.insee.fr/fr/statistiques/1288370",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Insee, dette et déficit",
+    "url": "https://www.insee.fr/fr/statistiques/1288370",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 17,
+  "theme": "Économie",
+  "engagement": "Ne remplacer qu'un fonctionnaire de l'État sur deux partant à la retraite",
+  "statut": "tenu",
+  "note": "Règle appliquée via la RGPP de 2007 à 2012, plus de 150 000 postes supprimés dans la fonction publique d'État.",
+  "sources": [
+   "https://www.weka.fr/actualite/?p=19478",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+   "https://fr.wikipedia.org/wiki/R%C3%A9vision_g%C3%A9n%C3%A9rale_des_politiques_publiques"
+  ],
+  "verdicts": [
+   {
+    "src": "Weka, fin de la RGPP (2012)",
+    "url": "https://www.weka.fr/actualite/?p=19478",
+    "statut": "tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "tenu"
+   },
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/R%C3%A9vision_g%C3%A9n%C3%A9rale_des_politiques_publiques",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 18,
+  "theme": "Éducation",
+  "engagement": "Donner leur autonomie aux universités",
+  "statut": "tenu",
+  "note": "Loi LRU du 10 août 2007 relative aux libertés et responsabilités des universités.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Loi_relative_aux_libert%C3%A9s_et_responsabilit%C3%A9s_des_universit%C3%A9s",
+   "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Loi_relative_aux_libert%C3%A9s_et_responsabilit%C3%A9s_des_universit%C3%A9s",
+    "statut": "tenu"
+   },
+   {
+    "src": "Nouvel Observateur, Sarkomètre mi-mandat 2009 (via Slate)",
+    "url": "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 19,
+  "theme": "Éducation",
+  "engagement": "Augmenter massivement le budget de l'enseignement supérieur et de la recherche (9 Md€ sur 5 ans)",
+  "statut": "partiel",
+  "note": "Le gouvernement revendique 1,8 Md€ de plus par an, les syndicats et l'opposition contestent une hausse réelle des moyens.",
+  "sources": [
+   "https://www.letudiant.fr/educpros/actualite/budget-de-l-enseignement-superieur-et-de-la-recherche-des-promesses-non-tenues-le-billet-d-henri.html",
+   "https://www.letudiant.fr/educpros/actualite/budget-2012-de-lenseignement-superieur-et-de-la-recherche-les-reponses-de-laurent-wauquiez-au.html"
+  ],
+  "verdicts": [
+   {
+    "src": "L'Etudiant, billet d'Henri Audier",
+    "url": "https://www.letudiant.fr/educpros/actualite/budget-de-l-enseignement-superieur-et-de-la-recherche-des-promesses-non-tenues-le-billet-d-henri.html",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "L'Etudiant, réponses de Laurent Wauquiez",
+    "url": "https://www.letudiant.fr/educpros/actualite/budget-2012-de-lenseignement-superieur-et-de-la-recherche-les-reponses-de-laurent-wauquiez-au.html",
+    "statut": "tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 20,
+  "theme": "Éducation",
+  "engagement": "Supprimer la carte scolaire",
+  "statut": "partiel",
+  "note": "Carte scolaire assouplie dès la rentrée 2007 mais jamais supprimée ; objectif de mixité sociale non atteint.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Carte_scolaire",
+   "https://www.slate.fr/story/21021/carte-scolaire-bilan"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Carte_scolaire",
+    "statut": "partiel"
+   },
+   {
+    "src": "Slate, carte scolaire : le bilan des 3 ans",
+    "url": "https://www.slate.fr/story/21021/carte-scolaire-bilan",
+    "statut": "partiel"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 21,
+  "theme": "Économie",
+  "engagement": "Porter l'effort de recherche à 3 % du PIB",
+  "statut": "non_tenu",
+  "note": "Objectif réaffirmé par le président, non atteint en fin de mandat d'après les chiffres contestés par les syndicats.",
+  "sources": [
+   "https://cordis.europa.eu/article/id/27809-sarkozy-renews-electoral-pledge-to-boost-research"
+  ],
+  "verdicts": [
+   {
+    "src": "CORDIS (Commission européenne)",
+    "url": "https://cordis.europa.eu/article/id/27809-sarkozy-renews-electoral-pledge-to-boost-research",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 22,
+  "theme": "Société",
+  "engagement": "Instaurer un service minimum garanti dans les transports en cas de grève",
+  "statut": "partiel",
+  "note": "Loi du 21 août 2007 : déclaration individuelle 48 h avant, plan de prévisibilité, consultation non contraignante après 8 jours, sans service garanti.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Service_minimum",
+   "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Service_minimum",
+    "statut": "partiel"
+   },
+   {
+    "src": "Wikipédia FR, Présidence de Nicolas Sarkozy",
+    "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+    "statut": "tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 23,
+  "theme": "Justice/Sécurité",
+  "engagement": "Instaurer des peines planchers pour les récidivistes",
+  "statut": "tenu",
+  "note": "Loi du 10 août 2007 renforçant la lutte contre la récidive, étendue après le discours de Grenoble (2010-2011).",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Peine_plancher",
+   "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Peine_plancher",
+    "statut": "tenu"
+   },
+   {
+    "src": "Wikipédia FR, Présidence de Nicolas Sarkozy",
+    "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+    "statut": "tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 24,
+  "theme": "Justice/Sécurité",
+  "engagement": "Juger les mineurs récidivistes de 16 à 18 ans comme des majeurs",
+  "statut": "partiel",
+  "note": "Loi du 10 août 2007 : l'excuse de minorité peut être écartée en cas de nouvelle récidive, sans alignement général sur les majeurs.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Peine_plancher"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Peine_plancher",
+    "statut": "partiel"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 25,
+  "theme": "Justice/Sécurité",
+  "engagement": "Réformer la carte judiciaire",
+  "statut": "tenu",
+  "note": "Réforme engagée par Rachida Dati par décrets de 2008, mise en œuvre jusqu'en 2011.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Carte_judiciaire",
+   "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Carte_judiciaire",
+    "statut": "tenu"
+   },
+   {
+    "src": "Nouvel Observateur, Sarkomètre mi-mandat 2009 (via Slate)",
+    "url": "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 26,
+  "theme": "Société",
+  "engagement": "Réformer les régimes spéciaux de retraite",
+  "statut": "tenu",
+  "note": "Réforme fin 2007 alignant progressivement la durée de cotisation des régimes spéciaux (SNCF, RATP, EDF-GDF).",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/R%C3%A9gimes_sp%C3%A9ciaux_de_retraite",
+   "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/R%C3%A9gimes_sp%C3%A9ciaux_de_retraite",
+    "statut": "tenu"
+   },
+   {
+    "src": "Wikipédia FR, Présidence de Nicolas Sarkozy",
+    "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 27,
+  "theme": "Société",
+  "engagement": "Réformer les retraites pour garantir leur financement",
+  "statut": "tenu",
+  "note": "Rendez-vous 2008 puis loi du 9 novembre 2010 relevant l'âge légal de 60 à 62 ans, malgré l'engagement de 2008 de ne pas toucher aux 60 ans.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/R%C3%A9forme_des_retraites_en_France_en_2010",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/R%C3%A9forme_des_retraites_en_France_en_2010",
+    "statut": "tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 28,
+  "theme": "Société",
+  "engagement": "Revaloriser de 25 % le minimum vieillesse sur le quinquennat",
+  "statut": "tenu",
+  "note": "Hausse par étapes de 2008 à 2012 ; montant passé d'environ 621 € en 2007 à 742 € en 2011, la dernière étape intervenant en 2012.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Allocation_de_solidarit%C3%A9_aux_personnes_%C3%A2g%C3%A9es",
+   "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE117389.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Allocation_de_solidarit%C3%A9_aux_personnes_%C3%A2g%C3%A9es",
+    "statut": "tenu"
+   },
+   {
+    "src": "Assemblée nationale, réponses ministérielles",
+    "url": "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE117389.pdf",
+    "statut": "partiel"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 29,
+  "theme": "Société",
+  "engagement": "Revaloriser de 25 % l'allocation aux adultes handicapés (AAH)",
+  "statut": "tenu",
+  "note": "AAH portée de 621 € (2007) à 776,59 € fin 2012, engagement confirmé à la Conférence nationale du handicap du 10 juin 2008.",
+  "sources": [
+   "https://informations.handicap.fr/a--2962.php",
+   "https://fr.wikipedia.org/wiki/Allocation_aux_adultes_handicap%C3%A9s"
+  ],
+  "verdicts": [
+   {
+    "src": "informations.handicap.fr",
+    "url": "https://informations.handicap.fr/a--2962.php",
+    "statut": "tenu"
+   },
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Allocation_aux_adultes_handicap%C3%A9s",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 30,
+  "theme": "Santé",
+  "engagement": "Créer des franchises médicales pour financer Alzheimer, cancer et soins palliatifs",
+  "statut": "tenu",
+  "note": "LFSS 2008 : franchises en vigueur au 1er janvier 2008.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Franchise_m%C3%A9dicale",
+   "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Franchise_m%C3%A9dicale",
+    "statut": "tenu"
+   },
+   {
+    "src": "Wikipédia FR, Présidence de Nicolas Sarkozy",
+    "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 31,
+  "theme": "Santé",
+  "engagement": "Lancer un plan Alzheimer",
+  "statut": "tenu",
+  "note": "Plan Alzheimer 2008-2012 présenté le 1er février 2008.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Plan_Alzheimer"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Plan_Alzheimer",
+    "statut": "tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 32,
+  "theme": "Santé",
+  "engagement": "Créer un cinquième risque de protection sociale pour la dépendance",
+  "statut": "non_tenu",
+  "note": "Réforme annoncée puis reportée en 2011, jamais adoptée sous le quinquennat.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Cinqui%C3%A8me_risque"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Cinqui%C3%A8me_risque",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 33,
+  "theme": "Logement",
+  "engagement": "Faire une « France de propriétaires » (70 % de ménages propriétaires)",
+  "statut": "non_tenu",
+  "note": "Taux de propriétaires stable autour de 57,8 % des ménages en 2012 (Insee).",
+  "sources": [
+   "https://www.banquedesterritoires.fr/logement-la-proportion-de-proprietaires-stagne-depuis-2008",
+   "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees"
+  ],
+  "verdicts": [
+   {
+    "src": "Banque des Territoires",
+    "url": "https://www.banquedesterritoires.fr/logement-la-proportion-de-proprietaires-stagne-depuis-2008",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Nouvel Observateur, Sarkomètre mi-mandat 2009 (via Slate)",
+    "url": "https://www.slate.fr/story/16707/sarkozy-50-promesses-sur-113-envolees",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 34,
+  "theme": "Logement",
+  "engagement": "Rendre le droit au logement opposable",
+  "statut": "partiel",
+  "note": "Loi DALO du 5 mars 2007 votée avant l'élection ; de nombreux ménages reconnus prioritaires restent sans offre de relogement.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Droit_au_logement_opposable",
+   "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE56790.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Droit_au_logement_opposable",
+    "statut": "partiel"
+   },
+   {
+    "src": "Assemblée nationale, question écrite",
+    "url": "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE56790.pdf",
+    "statut": "partiel"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 35,
+  "theme": "Logement",
+  "engagement": "« Zéro SDF » : plus personne à la rue d'ici deux ans",
+  "statut": "non_tenu",
+  "note": "Engagement du 18 décembre 2006 ; refondation de l'hébergement annoncée le 10 novembre 2009, sans atteindre l'objectif.",
+  "sources": [
+   "https://questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE91279.pdf",
+   "https://acteurspublics.fr/articles/gouvernement-annonces-contre-promesses/"
+  ],
+  "verdicts": [
+   {
+    "src": "Assemblée nationale, question écrite",
+    "url": "https://questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE91279.pdf",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Acteurs publics",
+    "url": "https://acteurspublics.fr/articles/gouvernement-annonces-contre-promesses/",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 36,
+  "theme": "Institutions",
+  "engagement": "Réformer les institutions (droits du Parlement, limite à deux mandats présidentiels)",
+  "statut": "tenu",
+  "note": "Révision constitutionnelle du 23 juillet 2008, adoptée par le Congrès le 21 juillet 2008 à deux voix près.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/R%C3%A9vision_constitutionnelle_du_23_juillet_2008",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/R%C3%A9vision_constitutionnelle_du_23_juillet_2008",
+    "statut": "tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 37,
+  "theme": "Institutions",
+  "engagement": "Limiter le gouvernement à quinze ministres",
+  "statut": "partiel",
+  "note": "Fillon I (mai 2007) compte 15 ministres ; les gouvernements suivants s'élargissent (31 membres en 2010), réduction de 19 % selon Acteurs publics.",
+  "sources": [
+   "https://acteurspublics.fr/articles/nicolas-sarkozy-explique-ses-choix-ministeriels/",
+   "https://www.slate.fr/story/30267/un-gouvernement-allege-en-sarkozysme",
+   "https://fr.wikipedia.org/wiki/Gouvernement_Fran%C3%A7ois_Fillon_(2)"
+  ],
+  "verdicts": [
+   {
+    "src": "Acteurs publics",
+    "url": "https://acteurspublics.fr/articles/nicolas-sarkozy-explique-ses-choix-ministeriels/",
+    "statut": "partiel"
+   },
+   {
+    "src": "Slate, gouvernement Fillon III",
+    "url": "https://www.slate.fr/story/30267/un-gouvernement-allege-en-sarkozysme",
+    "statut": "partiel"
+   },
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Gouvernement_Fran%C3%A7ois_Fillon_(2)",
+    "statut": "partiel"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 38,
+  "theme": "Institutions",
+  "engagement": "Confier la présidence de la commission des finances de l'Assemblée à l'opposition",
+  "statut": "tenu",
+  "note": "Didier Migaud (PS) élu président de la commission des finances en juin 2007.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Commission_des_finances_de_l%27Assembl%C3%A9e_nationale"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Commission_des_finances_de_l%27Assembl%C3%A9e_nationale",
+    "statut": "tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 39,
+  "theme": "Institutions",
+  "engagement": "Créer un ministère de l'Immigration et de l'Identité nationale",
+  "statut": "partiel",
+  "note": "Ministère créé en mai 2007, supprimé en novembre 2010 et rattaché à l'Intérieur.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_l%27Immigration,_de_l%27Int%C3%A9gration,_de_l%27Identit%C3%A9_nationale_et_du_D%C3%A9veloppement_solidaire",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Minist%C3%A8re_de_l%27Immigration,_de_l%27Int%C3%A9gration,_de_l%27Identit%C3%A9_nationale_et_du_D%C3%A9veloppement_solidaire",
+    "statut": "tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 40,
+  "theme": "Société",
+  "engagement": "Fixer des quotas annuels d'immigration par catégorie et région",
+  "statut": "non_tenu",
+  "note": "Projet de quotas écarté après le rapport de la commission Mazeaud (2008).",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Immigration_choisie",
+   "https://www.afrik.com/sarkozy-favorable-a-des-quotas-d-immigration-par-regions-du-monde"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Immigration_choisie",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 41,
+  "theme": "Société",
+  "engagement": "Porter l'immigration économique à 50 % des entrées durables",
+  "statut": "non_tenu",
+  "note": "Objectif fixé dans la lettre de mission à Brice Hortefeux du 9 juillet 2007, jamais approché.",
+  "sources": [
+   "https://www.afrik.com/sarkozy-fixe-le-taux-d-immigration-economique-en-france-a-50",
+   "https://www.france-terre-asile.org/images/stories/actualites-choisie/daha/explication-de-vote-groupe-src--plf-2012-immigration-asile-integration.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Groupe SRC, PLF 2012 (France Terre d'Asile)",
+    "url": "https://www.france-terre-asile.org/images/stories/actualites-choisie/daha/explication-de-vote-groupe-src--plf-2012-immigration-asile-integration.pdf",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 42,
+  "theme": "Société",
+  "engagement": "Conditionner le regroupement familial à la langue et aux ressources",
+  "statut": "tenu",
+  "note": "Loi Hortefeux du 20 novembre 2007 relative à la maîtrise de l'immigration.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Loi_Hortefeux",
+   "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Loi_Hortefeux",
+    "statut": "tenu"
+   },
+   {
+    "src": "Wikipédia FR, Présidence de Nicolas Sarkozy",
+    "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 43,
+  "theme": "Environnement/Énergie",
+  "engagement": "Organiser un Grenelle de l'environnement suivi de lois",
+  "statut": "tenu",
+  "note": "Grenelle à l'automne 2007, loi Grenelle I du 3 août 2009 et Grenelle II de juillet 2010.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Grenelle_de_l%27environnement",
+   "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Grenelle_de_l%27environnement",
+    "statut": "tenu"
+   },
+   {
+    "src": "Wikipédia FR, Présidence de Nicolas Sarkozy",
+    "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+    "statut": "tenu"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "partiel"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 44,
+  "theme": "Environnement/Énergie",
+  "engagement": "Instaurer une taxe carbone (pacte écologique de Nicolas Hulot)",
+  "statut": "non_tenu",
+  "note": "Contribution climat-énergie censurée par le Conseil constitutionnel (décision 2009-599 DC du 29 décembre 2009), abandonnée en mars 2010.",
+  "sources": [
+   "https://www.slate.fr/story/15073/taxe-carbone-sarkozy-conseil-constitutionnel-fiscalite",
+   "https://www.lepetitjuriste.fr/lechec-de-la-taxe-carbone-un-coup-de-frein-a-la-fiscalite-environnementale-environnementale/",
+   "https://tnova.fr/site/assets/files/11266/263taxcarbon.pdf?10xlo"
+  ],
+  "verdicts": [
+   {
+    "src": "Slate",
+    "url": "https://www.slate.fr/story/15073/taxe-carbone-sarkozy-conseil-constitutionnel-fiscalite",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Le Petit Juriste",
+    "url": "https://www.lepetitjuriste.fr/lechec-de-la-taxe-carbone-un-coup-de-frein-a-la-fiscalite-environnementale-environnementale/",
+    "statut": "non_tenu"
+   },
+   {
+    "src": "Terra Nova",
+    "url": "https://tnova.fr/site/assets/files/11266/263taxcarbon.pdf?10xlo",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 45,
+  "theme": "Europe/International",
+  "engagement": "Faire adopter un traité européen simplifié par voie parlementaire",
+  "statut": "tenu",
+  "note": "Traité de Lisbonne signé le 13 décembre 2007, ratifié par le Parlement en février 2008.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Lisbonne",
+   "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Lisbonne",
+    "statut": "tenu"
+   },
+   {
+    "src": "Wikipédia FR, Présidence de Nicolas Sarkozy",
+    "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+    "statut": "tenu"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 46,
+  "theme": "Europe/International",
+  "engagement": "Créer une Union méditerranéenne",
+  "statut": "partiel",
+  "note": "Union pour la Méditerranée lancée le 13 juillet 2008 sous une forme édulcorée à la demande de Berlin, puis enlisée.",
+  "sources": [
+   "https://euobserver.com/14986/mediterranean-union-to-be-launched/",
+   "https://fr.wikipedia.org/wiki/Union_pour_la_M%C3%A9diterran%C3%A9e",
+   "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy"
+  ],
+  "verdicts": [
+   {
+    "src": "EUobserver",
+    "url": "https://euobserver.com/14986/mediterranean-union-to-be-launched/",
+    "statut": "partiel"
+   },
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Union_pour_la_M%C3%A9diterran%C3%A9e",
+    "statut": "partiel"
+   },
+   {
+    "src": "Wikipédia FR, Présidence de Nicolas Sarkozy",
+    "url": "https://fr.wikipedia.org/wiki/Pr%C3%A9sidence_de_Nicolas_Sarkozy",
+    "statut": "tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 47,
+  "theme": "Europe/International",
+  "engagement": "Rétablir la préférence communautaire dans les échanges",
+  "statut": "non_tenu",
+  "note": "Promesse non réalisée, reprise dans la campagne de 2012 selon le baromètre Thomas More.",
+  "sources": [
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": true
+ },
+ {
+  "n": 48,
+  "theme": "Société",
+  "engagement": "Créer un service civique obligatoire",
+  "statut": "partiel",
+  "note": "Loi du 10 mars 2010 créant un service civique volontaire, non obligatoire.",
+  "sources": [
+   "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE91122.pdf",
+   "https://fr.wikipedia.org/wiki/Service_civique"
+  ],
+  "verdicts": [
+   {
+    "src": "Assemblée nationale, question écrite",
+    "url": "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE91122.pdf",
+    "statut": "partiel"
+   },
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Service_civique",
+    "statut": "partiel"
+   }
+  ],
+  "flag": false
+ },
+ {
+  "n": 49,
+  "theme": "Société",
+  "engagement": "Lancer un plan d'envergure pour les banlieues (« plan Marshall »)",
+  "statut": "partiel",
+  "note": "Plan Espoir Banlieues lancé en 2008 par Fadela Amara, jugé en échec par le baromètre Thomas More.",
+  "sources": [
+   "https://fr.wikipedia.org/wiki/Plan_Espoir_Banlieues",
+   "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf"
+  ],
+  "verdicts": [
+   {
+    "src": "Wikipédia FR",
+    "url": "https://fr.wikipedia.org/wiki/Plan_Espoir_Banlieues",
+    "statut": "partiel"
+   },
+   {
+    "src": "Institut Thomas More, Baromètre 10 (mars 2012)",
+    "url": "https://institut-thomas-more.org/wp-content/uploads/2023/07/ITM-BaroReformesNicolasSarkozy10.pdf",
+    "statut": "non_tenu"
+   }
+  ],
+  "flag": true
+ }
+]

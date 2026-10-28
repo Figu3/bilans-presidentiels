@@ -1,0 +1,1038 @@
+{
+ "eng": [
+  {
+   "n": 1,
+   "theme": "Fiscalité",
+   "engagement": "Réduire d'un tiers l'impôt sur le revenu en cinq ans, avec une baisse de 5 % dès 2002",
+   "statut": "partiel",
+   "note": "Baisses du barème de 5 % (2002), 1 % (2003) et 3 % (2004) puis réforme à cinq tranches (loi de finances pour 2006) : allègement moyen d'environ 20 %, 30 % pour 3,7 millions de foyers.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://questions.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE107177.pdf",
+    "https://www.senat.fr/rap/l06-078-1/l06-078-1_mono.html",
+    "https://acteurspublics.fr/articles/chirac-entre-bilan-et-promesses/"
+   ],
+   "verdicts": [
+    {
+     "src": "Assemblée nationale, question écrite n° 107177 (réponse du 6 février 2007)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE107177.pdf",
+     "statut": "partiel"
+    },
+    {
+     "src": "Sénat, rapport général sur le projet de loi de finances pour 2007",
+     "url": "https://www.senat.fr/rap/l06-078-1/l06-078-1_mono.html",
+     "statut": "partiel"
+    },
+    {
+     "src": "Acteurs publics, « Chirac, entre bilan et promesses » (janvier 2007)",
+     "url": "https://acteurspublics.fr/articles/chirac-entre-bilan-et-promesses/",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 2,
+   "theme": "Fiscalité",
+   "engagement": "Obtenir l'application du taux réduit de TVA à la restauration",
+   "statut": "non_tenu",
+   "note": "Demande adressée à la Commission en juin 2002 mais bloquée par la directive de 1992 et les partenaires européens ; le taux de 5,5 % n'est appliqué qu'au 1er juillet 2009.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE8382.pdf",
+    "https://questions.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE4022.pdf",
+    "https://fr.wikipedia.org/wiki/Taxe_sur_la_valeur_ajout%C3%A9e_en_France"
+   ],
+   "verdicts": [
+    {
+     "src": "Assemblée nationale, question écrite n° 8382 (réponse du 8 avril 2008)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE8382.pdf",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Assemblée nationale, question écrite n° 4022 (réponse du 16 décembre 2002)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE4022.pdf",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Wikipédia FR, TVA en France",
+     "url": "https://fr.wikipedia.org/wiki/Taxe_sur_la_valeur_ajout%C3%A9e_en_France",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 3,
+   "theme": "Emploi",
+   "engagement": "Baisser de nouveau les charges sociales sur les bas salaires, à l'échelle de 1993-1995",
+   "statut": "tenu",
+   "note": "Loi Fillon du 17 janvier 2003 : allègement unique dégressif jusqu'à 1,6 Smic (plus de 20 milliards d'euros par an dès 2004) et convergence des Smic au 1er juillet 2005.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://www.vie-publique.fr/files/rapport/pdf/094000407.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "vie-publique.fr, rapport d'évaluation des baisses de cotisations (CEE)",
+     "url": "https://www.vie-publique.fr/files/rapport/pdf/094000407.pdf",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 4,
+   "theme": "Emploi",
+   "engagement": "Assouplir les 35 heures par la négociation, en maintenant la durée légale",
+   "statut": "tenu",
+   "note": "Durée légale inchangée ; contingent d'heures supplémentaires relevé (loi du 17 janvier 2003, décret du 21 décembre 2004 à 220 heures) et « heures choisies » par accord (loi du 31 mars 2005).",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/R%C3%A9forme_des_35_heures_en_France",
+    "https://www.assemblee-nationale.fr/12/rap-info/i3067.asp"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Réforme des 35 heures",
+     "url": "https://fr.wikipedia.org/wiki/R%C3%A9forme_des_35_heures_en_France",
+     "statut": "tenu"
+    },
+    {
+     "src": "Assemblée nationale, rapport d'information n° 3067 (P. Morange) sur la loi du 31 mars 2005",
+     "url": "https://www.assemblee-nationale.fr/12/rap-info/i3067.asp",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 5,
+   "theme": "Emploi",
+   "engagement": "Ouvrir un contrat sans charges en entreprise aux jeunes sans diplôme de niveau bac + 2",
+   "statut": "tenu",
+   "note": "Contrat jeune en entreprise créé par la loi du 29 août 2002 ; 269 500 embauches entre juillet 2002 et décembre 2005 selon la Dares ; supprimé au 1er janvier 2008.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Contrat_jeune_en_entreprise",
+    "https://dares.travail-emploi.gouv.fr/publications/2007-02-2-soutien-a-l-emploi-des-jeunes-en-entreprise-bilan-fin-2005",
+    "https://www.insee.fr/fr/metadonnees/definition/c1321"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Contrat_jeune_en_entreprise",
+     "statut": "tenu"
+    },
+    {
+     "src": "Dares, « Soutien à l'emploi des jeunes en entreprise » : bilan fin 2005",
+     "url": "https://dares.travail-emploi.gouv.fr/publications/2007-02-2-soutien-a-l-emploi-des-jeunes-en-entreprise-bilan-fin-2005",
+     "statut": "tenu"
+    },
+    {
+     "src": "Insee, définition du contrat jeunes en entreprise",
+     "url": "https://www.insee.fr/fr/metadonnees/definition/c1321",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 6,
+   "theme": "Emploi",
+   "engagement": "Créer un contrat d'insertion dans la vie sociale (CIVIS) pour les jeunes en difficulté",
+   "statut": "tenu",
+   "note": "CIVIS créé en 2003 par le gouvernement Raffarin et confié aux missions locales ; il est supprimé par la loi du 8 août 2016.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Contrat_d%27insertion_dans_la_vie_sociale"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Contrat_d%27insertion_dans_la_vie_sociale",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 7,
+   "theme": "Emploi",
+   "engagement": "Mener une politique de plein emploi et ramener le chômage au meilleur niveau européen",
+   "statut": "non_tenu",
+   "note": "Selon l'Insee, le taux de chômage passe de 7,9 % en 2002 à 8,9 % en 2004-2006 puis 8,0 % en 2007, soit un niveau égal à celui du début de mandat.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://www.insee.fr/fr/statistiques/4805248",
+    "https://fr.wikipedia.org/wiki/Ch%C3%B4mage_en_France",
+    "https://acteurspublics.fr/articles/chirac-entre-bilan-et-promesses/"
+   ],
+   "verdicts": [
+    {
+     "src": "Insee, « L'essentiel sur le chômage »",
+     "url": "https://www.insee.fr/fr/statistiques/4805248",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Wikipédia FR, Chômage en France",
+     "url": "https://fr.wikipedia.org/wiki/Ch%C3%B4mage_en_France",
+     "statut": "partiel"
+    },
+    {
+     "src": "Acteurs publics, « Chirac, entre bilan et promesses » (janvier 2007)",
+     "url": "https://acteurspublics.fr/articles/chirac-entre-bilan-et-promesses/",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 8,
+   "theme": "Emploi",
+   "engagement": "Inviter les partenaires sociaux à négocier avant toute loi sur le travail",
+   "statut": "partiel",
+   "note": "Le CPE, créé sans concertation par l'article 8 de la loi du 31 mars 2006, est abrogé par la loi du 21 avril 2006 ; la loi du 31 janvier 2007 inscrit ensuite la concertation préalable (article L. 1).",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche",
+    "https://questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE55248.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Contrat première embauche",
+     "url": "https://fr.wikipedia.org/wiki/Contrat_premi%C3%A8re_embauche",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Assemblée nationale, question écrite n° 55248 (réponse du 18 mai 2010)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE55248.pdf",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 9,
+   "theme": "Économie",
+   "engagement": "Favoriser la création d'un million d'entreprises nouvelles en cinq ans",
+   "statut": "tenu",
+   "note": "Loi pour l'initiative économique (Dutreil) du 1er août 2003 ; l'Insee relève de fortes hausses des créations en 2003, 2004, 2006 et 2007 (record d'environ 321 000 en 2007), séries non homogènes après 2007.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://www.insee.fr/fr/statistiques/1373413?sommaire=1373438",
+    "https://fr.wikipedia.org/wiki/Loi_pour_l%27initiative_%C3%A9conomique"
+   ],
+   "verdicts": [
+    {
+     "src": "Insee, Tableaux de l'économie française 2010, démographie des entreprises",
+     "url": "https://www.insee.fr/fr/statistiques/1373413?sommaire=1373438",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR, Loi pour l'initiative économique",
+     "url": "https://fr.wikipedia.org/wiki/Loi_pour_l%27initiative_%C3%A9conomique",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 10,
+   "theme": "Économie",
+   "engagement": "Porter l'effort de recherche à 3 % du PIB en dix ans par un plan de mobilisation",
+   "statut": "partiel",
+   "note": "ANR créée le 7 février 2005 et loi de programme pour la recherche du 18 avril 2006, mais la dépense de R&D recule par rapport au PIB depuis 2002 (environ 2,1 % en 2007).",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/02/27/discours-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-sur-la-situation-economique-du-pays-ses-engagements-en-tant-que-candidat-la-securite-les-retraites-lemploi-le-chomage-linsertion-des-jeunes-l",
+    "https://fr.wikipedia.org/wiki/Loi_de_programme_pour_la_recherche",
+    "https://fr.wikipedia.org/wiki/Agence_nationale_de_la_recherche",
+    "https://www.assemblee-nationale.fr/13/pdf/budget/plf2010/a1969-tXI.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Loi de programme pour la recherche",
+     "url": "https://fr.wikipedia.org/wiki/Loi_de_programme_pour_la_recherche",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR, Agence nationale de la recherche",
+     "url": "https://fr.wikipedia.org/wiki/Agence_nationale_de_la_recherche",
+     "statut": "tenu"
+    },
+    {
+     "src": "Assemblée nationale, avis budgétaire recherche PLF 2010 (tome XI)",
+     "url": "https://www.assemblee-nationale.fr/13/pdf/budget/plf2010/a1969-tXI.pdf",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 11,
+   "theme": "Économie",
+   "engagement": "Respecter le pacte de stabilité et contenir les déficits publics",
+   "statut": "non_tenu",
+   "note": "La France est en procédure de déficit excessif de 2003 à 2007 (4,1 % du PIB en 2003) et la dette publique passe de 59,1 % du PIB en 2002 à 64,2 % en 2007 (Insee).",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/04/02/interview-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-a-france-3-le-2-avril-2002-sur-le-respect-du-pacte-de-stabilite-budgetaire-les-fonds-de-pension-a-la-francaise-lassouplissement-negocie-des-35",
+    "https://fr.wikipedia.org/wiki/D%C3%A9ficit_public_de_la_France",
+    "https://www.insee.fr/fr/statistiques/1288370?sommaire=1288404"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Déficit public de la France",
+     "url": "https://fr.wikipedia.org/wiki/D%C3%A9ficit_public_de_la_France",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Insee, Tableaux de l'économie française 2014, dette et déficit publics",
+     "url": "https://www.insee.fr/fr/statistiques/1288370?sommaire=1288404",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 12,
+   "theme": "Économie",
+   "engagement": "Ouvrir le capital des entreprises publiques tout en les maintenant dans le secteur public",
+   "statut": "partiel",
+   "note": "EDF et GDF deviennent des sociétés anonymes à capital majoritairement public (loi du 9 août 2004), mais la loi du 7 décembre 2006 autorise la privatisation de GDF.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Gaz_de_France",
+    "https://fr.wikipedia.org/wiki/%C3%89lectricit%C3%A9_de_France"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Gaz de France",
+     "url": "https://fr.wikipedia.org/wiki/Gaz_de_France",
+     "statut": "partiel"
+    },
+    {
+     "src": "Wikipédia FR, Électricité de France",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89lectricit%C3%A9_de_France",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 13,
+   "theme": "Société",
+   "engagement": "Sauvegarder la retraite par répartition et rapprocher public et privé",
+   "statut": "tenu",
+   "note": "Loi Fillon du 21 août 2003 : durée d'assurance de la fonction publique alignée sur 40 ans entre 2004 et 2008, départs anticipés pour carrières longues.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Loi_du_21_ao%C3%BBt_2003_portant_r%C3%A9forme_des_retraites",
+    "https://www.vie-publique.fr/files/rapport/pdf/044000229.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, loi du 21 août 2003",
+     "url": "https://fr.wikipedia.org/wiki/Loi_du_21_ao%C3%BBt_2003_portant_r%C3%A9forme_des_retraites",
+     "statut": "tenu"
+    },
+    {
+     "src": "Conseil d'orientation des retraites, deuxième rapport (juin 2004)",
+     "url": "https://www.vie-publique.fr/files/rapport/pdf/044000229.pdf",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 14,
+   "theme": "Société",
+   "engagement": "Permettre aux salariés de plus de 60 ans de travailler plus longtemps en augmentant leurs droits",
+   "statut": "tenu",
+   "note": "La loi du 21 août 2003 crée une surcote pour les trimestres travaillés au-delà de l'âge et de la durée requis, d'abord de 3 % par an puis portée à 5 %.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://www.vie-publique.fr/files/rapport/pdf/124000324.pdf",
+    "https://fr.wikipedia.org/wiki/Loi_du_21_ao%C3%BBt_2003_portant_r%C3%A9forme_des_retraites"
+   ],
+   "verdicts": [
+    {
+     "src": "IGAS, rapport RM2012-067P (juin 2012)",
+     "url": "https://www.vie-publique.fr/files/rapport/pdf/124000324.pdf",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR, loi du 21 août 2003",
+     "url": "https://fr.wikipedia.org/wiki/Loi_du_21_ao%C3%BBt_2003_portant_r%C3%A9forme_des_retraites",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 15,
+   "theme": "Société",
+   "engagement": "Créer une épargne retraite en franchise d'impôt accessible à tous",
+   "statut": "tenu",
+   "note": "Plan d'épargne retraite populaire (PERP) et plan d'épargne pour la retraite collectif (PERCO) institués par la loi du 21 août 2003.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/%C3%89pargne_retraite",
+    "https://fr.wikipedia.org/wiki/Loi_du_21_ao%C3%BBt_2003_portant_r%C3%A9forme_des_retraites"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Épargne retraite",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89pargne_retraite",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR, loi du 21 août 2003",
+     "url": "https://fr.wikipedia.org/wiki/Loi_du_21_ao%C3%BBt_2003_portant_r%C3%A9forme_des_retraites",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 16,
+   "theme": "Société",
+   "engagement": "Créer une allocation unique d'accueil du jeune enfant, que la mère travaille ou non",
+   "statut": "tenu",
+   "note": "Prestation d'accueil du jeune enfant (PAJE) pour les enfants nés depuis le 1er janvier 2004, regroupant APJE, APE, AGED et AFEAMA.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Prestation_d%27accueil_du_jeune_enfant",
+    "https://www.ccomptes.fr/sites/default/files/2023-10/20221004-Ralfss-2022-8-prestation-accueil-jeune-enfant.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Prestation_d%27accueil_du_jeune_enfant",
+     "statut": "tenu"
+    },
+    {
+     "src": "Cour des comptes, RALFSS 2022, chapitre VIII sur la PAJE",
+     "url": "https://www.ccomptes.fr/sites/default/files/2023-10/20221004-Ralfss-2022-8-prestation-accueil-jeune-enfant.pdf",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 17,
+   "theme": "Société",
+   "engagement": "Créer un droit à la compensation du handicap et scolariser les enfants handicapés",
+   "statut": "tenu",
+   "note": "Loi du 11 février 2005 : prestation de compensation, maisons départementales des personnes handicapées et inscription de chaque enfant dans l'école de son quartier.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Loi_pour_l%27%C3%A9galit%C3%A9_des_droits_et_des_chances,_la_participation_et_la_citoyennet%C3%A9_des_personnes_handicap%C3%A9es",
+    "https://acteurspublics.fr/articles/chirac-entre-bilan-et-promesses/"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, loi handicap",
+     "url": "https://fr.wikipedia.org/wiki/Loi_pour_l%27%C3%A9galit%C3%A9_des_droits_et_des_chances,_la_participation_et_la_citoyennet%C3%A9_des_personnes_handicap%C3%A9es",
+     "statut": "tenu"
+    },
+    {
+     "src": "Acteurs publics, « Chirac, entre bilan et promesses » (janvier 2007)",
+     "url": "https://acteurspublics.fr/articles/chirac-entre-bilan-et-promesses/",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 18,
+   "theme": "Société",
+   "engagement": "Garantir par accord un service minimum dans les transports en cas de grève",
+   "statut": "non_tenu",
+   "note": "Aucun texte sous le quinquennat malgré une dizaine de propositions de loi ; le service minimum est instauré par la loi du 21 août 2007.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Service_minimum"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Service minimum",
+     "url": "https://fr.wikipedia.org/wiki/Service_minimum",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 19,
+   "theme": "Société",
+   "engagement": "Renforcer la sécurité routière par une loi d'orientation pluriannuelle",
+   "statut": "tenu",
+   "note": "Grand chantier du 14 juillet 2002, loi du 12 juin 2003 et radars automatiques dès octobre 2003 : 7 242 tués en 2002 contre 4 709 en 2006.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_routi%C3%A8re_en_France",
+    "https://www.onisr.securite-routiere.gouv.fr/sites/default/files/2023-10/2008%2002%2013%20DP%20CISR.pdf",
+    "https://questions.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE81967.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Sécurité routière en France",
+     "url": "https://fr.wikipedia.org/wiki/S%C3%A9curit%C3%A9_routi%C3%A8re_en_France",
+     "statut": "tenu"
+    },
+    {
+     "src": "ONISR, dossier de presse du CISR du 13 février 2008",
+     "url": "https://www.onisr.securite-routiere.gouv.fr/sites/default/files/2023-10/2008%2002%2013%20DP%20CISR.pdf",
+     "statut": "tenu"
+    },
+    {
+     "src": "Assemblée nationale, question écrite n° 81967 (réponse du 11 juillet 2006)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE81967.pdf",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 20,
+   "theme": "Logement",
+   "engagement": "Lancer un programme massif de reconstruction de logements pour supprimer les ghettos",
+   "statut": "tenu",
+   "note": "Loi Borloo du 1er août 2003 : programme national de rénovation urbaine financé par l'ANRU, créée par son article 10.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Agence_nationale_pour_la_r%C3%A9novation_urbaine",
+    "https://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programmation_pour_la_ville_et_la_r%C3%A9novation_urbaine"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Agence nationale pour la rénovation urbaine",
+     "url": "https://fr.wikipedia.org/wiki/Agence_nationale_pour_la_r%C3%A9novation_urbaine",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR, loi Borloo du 1er août 2003",
+     "url": "https://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programmation_pour_la_ville_et_la_r%C3%A9novation_urbaine",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 21,
+   "theme": "Santé",
+   "engagement": "Lancer un plan national de prévention contre le cancer inscrit dans une loi de santé publique",
+   "statut": "tenu",
+   "note": "Plan cancer 2003-2007 (70 mesures, Institut national du cancer) et loi de santé publique du 9 août 2004 ; la Cour des comptes juge les réalisations souvent substantielles (2008).",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Plan_Cancer",
+    "https://www.vie-publique.fr/files/rapport/pdf/084000337.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Plan Cancer",
+     "url": "https://fr.wikipedia.org/wiki/Plan_Cancer",
+     "statut": "tenu"
+    },
+    {
+     "src": "Cour des comptes, « La mise en œuvre du plan cancer » (2008)",
+     "url": "https://www.vie-publique.fr/files/rapport/pdf/084000337.pdf",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 22,
+   "theme": "Santé",
+   "engagement": "Transformer les agences régionales de l'hospitalisation en agences régionales de santé",
+   "statut": "non_tenu",
+   "note": "Les ARS ne sont créées que par la loi HPST du 21 juillet 2009 et installées le 1er avril 2010.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Agence_r%C3%A9gionale_de_sant%C3%A9"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Agence régionale de santé",
+     "url": "https://fr.wikipedia.org/wiki/Agence_r%C3%A9gionale_de_sant%C3%A9",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 23,
+   "theme": "Santé",
+   "engagement": "Aider fiscalement les revenus modestes à souscrire une complémentaire santé",
+   "statut": "tenu",
+   "note": "Loi du 13 août 2004 : crédit d'impôt devenu aide à l'acquisition d'une complémentaire santé (ACS) au 1er janvier 2005, au recours resté faible.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE21266.pdf",
+    "https://www.irdes.fr/Publications/Qes/Qes121.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Assemblée nationale, question écrite n° 21266 (réponse du 25 novembre 2008)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE21266.pdf",
+     "statut": "tenu"
+    },
+    {
+     "src": "IRDES, Questions d'économie de la santé n° 121",
+     "url": "https://www.irdes.fr/Publications/Qes/Qes121.pdf",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 24,
+   "theme": "Santé",
+   "engagement": "Lancer un programme quinquennal d'investissement pour les équipements de santé",
+   "statut": "tenu",
+   "note": "Plan Hôpital 2007 présenté par Jean-François Mattei en novembre 2002, avec un effort d'investissement annoncé de 10,2 milliards d'euros sur cinq ans.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://questions.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE110557.pdf",
+    "https://questions.assemblee-nationale.fr/dyn/12/questions/QANR5L12QG1011.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Assemblée nationale, question écrite n° 110557 (2006)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/12/questions/QANR5L12QE110557.pdf",
+     "statut": "tenu"
+    },
+    {
+     "src": "Assemblée nationale, question au gouvernement n° 1011 (décembre 2003)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/12/questions/QANR5L12QG1011.pdf",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 25,
+   "theme": "Justice/Sécurité",
+   "engagement": "Créer un Conseil de sécurité intérieure présidé par le chef de l'État",
+   "statut": "tenu",
+   "note": "Décret n° 2002-890 du 15 mai 2002 : conseil présidé par le président de la République, fusionné en 2010 dans le conseil de défense et de sécurité nationale.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://maire-info.com/le-conseil-de-securite-interieure-est-place-sous-la-presidence-du-chef-de-letat-article2-1834",
+    "https://fr.wikipedia.org/wiki/Conseil_de_s%C3%A9curit%C3%A9_int%C3%A9rieure"
+   ],
+   "verdicts": [
+    {
+     "src": "Maire-info, édition du 16 mai 2002",
+     "url": "https://maire-info.com/le-conseil-de-securite-interieure-est-place-sous-la-presidence-du-chef-de-letat-article2-1834",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR",
+     "url": "https://fr.wikipedia.org/wiki/Conseil_de_s%C3%A9curit%C3%A9_int%C3%A9rieure",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 26,
+   "theme": "Justice/Sécurité",
+   "engagement": "Placer policiers et gendarmes sous l'autorité d'un ministre de la sécurité intérieure",
+   "statut": "partiel",
+   "note": "Ministère de l'Intérieur et de la Sécurité intérieure créé en mai 2002, responsable de l'emploi de la gendarmerie (décret du 15 mai 2002) ; rattachement organique seulement par la loi du 3 août 2009.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Gouvernement_Raffarin_I",
+    "https://questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE53946.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Gouvernement Raffarin I",
+     "url": "https://fr.wikipedia.org/wiki/Gouvernement_Raffarin_I",
+     "statut": "tenu"
+    },
+    {
+     "src": "Assemblée nationale, question écrite n° 53946 (réponse du 22 septembre 2009)",
+     "url": "https://questions.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE53946.pdf",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 27,
+   "theme": "Justice/Sécurité",
+   "engagement": "Voter une loi de programmation renforçant les moyens de la justice et créer une justice de proximité",
+   "statut": "tenu",
+   "note": "Loi Perben I du 9 septembre 2002 : juges de proximité, centres éducatifs fermés pour mineurs et programme de 13 200 places de détention.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programmation_pour_la_justice",
+    "https://fr.wikipedia.org/wiki/Centre_%C3%A9ducatif_ferm%C3%A9"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, LOPJ",
+     "url": "https://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programmation_pour_la_justice",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR, Centre éducatif fermé",
+     "url": "https://fr.wikipedia.org/wiki/Centre_%C3%A9ducatif_ferm%C3%A9",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 28,
+   "theme": "Justice/Sécurité",
+   "engagement": "Créer des établissements fermés pour éloigner les délinquants multirécidivistes",
+   "statut": "partiel",
+   "note": "Programme 13 200 lancé par la loi du 9 septembre 2002, mais premières livraisons à l'automne 2008 selon la Cour des comptes, ouvertures surtout en 2010-2011.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://www.vie-publique.fr/files/rapport/pdf/104000386.pdf",
+    "https://fr.wikipedia.org/wiki/Programme_13200"
+   ],
+   "verdicts": [
+    {
+     "src": "Cour des comptes, « Le service public pénitentiaire » (juillet 2010)",
+     "url": "https://www.vie-publique.fr/files/rapport/pdf/104000386.pdf",
+     "statut": "partiel"
+    },
+    {
+     "src": "Wikipédia FR, Programme 13 200",
+     "url": "https://fr.wikipedia.org/wiki/Programme_13200",
+     "statut": "partiel"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 29,
+   "theme": "Justice/Sécurité",
+   "engagement": "Mobiliser tous les moyens de l'État contre la violence (police et gendarmerie)",
+   "statut": "partiel",
+   "note": "LOPSI du 29 août 2002 : 5,6 milliards d'euros et 13 500 emplois sur 2003-2007 ; l'inspection relève en 2006 un retard d'investissement de la gendarmerie.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programmation_pour_la_s%C3%A9curit%C3%A9_int%C3%A9rieure",
+    "https://www.vie-publique.fr/files/rapport/pdf/074000275.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, LOPSI",
+     "url": "https://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programmation_pour_la_s%C3%A9curit%C3%A9_int%C3%A9rieure",
+     "statut": "tenu"
+    },
+    {
+     "src": "IGA et Contrôle général des armées, rapport d'exécution de la LOPSI (septembre 2006)",
+     "url": "https://www.vie-publique.fr/files/rapport/pdf/074000275.pdf",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 30,
+   "theme": "Justice/Sécurité",
+   "engagement": "Faire reculer l'insécurité en imposant l'« impunité zéro »",
+   "statut": "partiel",
+   "note": "Délinquance générale en recul de 8,8 % de 2002 à 2006 selon le ministre de l'Intérieur, mais violences aux personnes en hausse sur la même période.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://www.assemblee-nationale.fr/12/pdf/cr-cloi/06-07/c0607006.pdf",
+    "https://www.senat.fr/seances/s200611/s20061107/s20061107003.html"
+   ],
+   "verdicts": [
+    {
+     "src": "Assemblée nationale, commission des lois, audition du ministre de l'Intérieur (2006)",
+     "url": "https://www.assemblee-nationale.fr/12/pdf/cr-cloi/06-07/c0607006.pdf",
+     "statut": "tenu"
+    },
+    {
+     "src": "Sénat, séance du 7 novembre 2006",
+     "url": "https://www.senat.fr/seances/s200611/s20061107/s20061107003.html",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 31,
+   "theme": "Institutions",
+   "engagement": "Inscrire dans la Constitution le droit à l'expérimentation des collectivités locales",
+   "statut": "tenu",
+   "note": "Révision constitutionnelle du 28 mars 2003 (République à organisation décentralisée) et loi organique du 1er août 2003 sur l'expérimentation.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Acte_II_de_la_d%C3%A9centralisation",
+    "https://www.vie-publique.fr/files/rapport/pdf/094000519.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Acte II de la décentralisation",
+     "url": "https://fr.wikipedia.org/wiki/Acte_II_de_la_d%C3%A9centralisation",
+     "statut": "tenu"
+    },
+    {
+     "src": "Cour des comptes, « La conduite par l'État de la décentralisation » (octobre 2009)",
+     "url": "https://www.vie-publique.fr/files/rapport/pdf/094000519.pdf",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 32,
+   "theme": "Institutions",
+   "engagement": "Transférer aux régions et collectivités des compétences de gestion de l'État",
+   "statut": "tenu",
+   "note": "Loi du 13 août 2004 relative aux libertés et responsabilités locales ; la Cour des comptes juge en 2009 la clarification des compétences insuffisante.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Acte_II_de_la_d%C3%A9centralisation",
+    "https://www.vie-publique.fr/files/rapport/pdf/094000519.pdf"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Acte II de la décentralisation",
+     "url": "https://fr.wikipedia.org/wiki/Acte_II_de_la_d%C3%A9centralisation",
+     "statut": "tenu"
+    },
+    {
+     "src": "Cour des comptes, « La conduite par l'État de la décentralisation » (octobre 2009)",
+     "url": "https://www.vie-publique.fr/files/rapport/pdf/094000519.pdf",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 33,
+   "theme": "Institutions",
+   "engagement": "Instaurer un référendum d'initiative populaire",
+   "statut": "non_tenu",
+   "note": "Rien sous le quinquennat ; un référendum d'initiative partagée n'est créé que par la révision du 23 juillet 2008 et applicable en 2015.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_d%27initiative_partag%C3%A9e",
+    "https://fr.wikipedia.org/wiki/R%C3%A9visions_constitutionnelles_sous_la_Cinqui%C3%A8me_R%C3%A9publique"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Référendum d'initiative partagée",
+     "url": "https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_d%27initiative_partag%C3%A9e",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "Wikipédia FR, Révisions constitutionnelles",
+     "url": "https://fr.wikipedia.org/wiki/R%C3%A9visions_constitutionnelles_sous_la_Cinqui%C3%A8me_R%C3%A9publique",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 34,
+   "theme": "Institutions",
+   "engagement": "Réformer le statut pénal du président, réforme soumise au Parlement dès 2002",
+   "statut": "partiel",
+   "note": "Commission Avril installée par décret du 4 juillet 2002, mais révision constitutionnelle adoptée seulement le 23 février 2007.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Statut_juridictionnel_du_pr%C3%A9sident_de_la_R%C3%A9publique_fran%C3%A7aise"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Statut juridictionnel du président",
+     "url": "https://fr.wikipedia.org/wiki/Statut_juridictionnel_du_pr%C3%A9sident_de_la_R%C3%A9publique_fran%C3%A7aise",
+     "statut": "partiel"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 35,
+   "theme": "Institutions",
+   "engagement": "Raccourcir à six ans le mandat des sénateurs",
+   "statut": "tenu",
+   "note": "Loi organique du 30 juillet 2003 : mandat ramené de neuf à six ans, renouvellement par moitié, âge d'éligibilité abaissé à 30 ans.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/S%C3%A9nat_(France)",
+    "https://www.conseil-constitutionnel.fr/decision/2003/2003476DC.htm"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Sénat",
+     "url": "https://fr.wikipedia.org/wiki/S%C3%A9nat_(France)",
+     "statut": "tenu"
+    },
+    {
+     "src": "Conseil constitutionnel, décision n° 2003-476 DC du 24 juillet 2003",
+     "url": "https://www.conseil-constitutionnel.fr/decision/2003/2003476DC.htm",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 36,
+   "theme": "Environnement/Énergie",
+   "engagement": "Inscrire une Charte de l'environnement adossée à la Constitution",
+   "statut": "tenu",
+   "note": "Charte adoptée par le Congrès le 28 février 2005 et promulguée par la loi constitutionnelle du 1er mars 2005 (principe de précaution).",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Charte_de_l%27environnement",
+    "https://www.vie-publique.fr/dossierlegislatif/JORFDOLE000017758953"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Charte de l'environnement",
+     "url": "https://fr.wikipedia.org/wiki/Charte_de_l%27environnement",
+     "statut": "tenu"
+    },
+    {
+     "src": "vie-publique.fr, dossier législatif de la loi constitutionnelle du 1er mars 2005",
+     "url": "https://www.vie-publique.fr/dossierlegislatif/JORFDOLE000017758953",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 37,
+   "theme": "Éducation",
+   "engagement": "Créer dès le primaire des parcours de soutien pour maîtriser lecture, écriture et calcul",
+   "statut": "tenu",
+   "note": "Loi Fillon du 23 avril 2005 : socle commun et programmes personnalisés de réussite éducative (PPRE) mis en place en 2005.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Programme_personnalis%C3%A9_de_r%C3%A9ussite_%C3%A9ducative",
+    "https://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programme_pour_l%27avenir_de_l%27%C3%A9cole"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, Programme personnalisé de réussite éducative",
+     "url": "https://fr.wikipedia.org/wiki/Programme_personnalis%C3%A9_de_r%C3%A9ussite_%C3%A9ducative",
+     "statut": "tenu"
+    },
+    {
+     "src": "Wikipédia FR, loi Fillon sur l'école",
+     "url": "https://fr.wikipedia.org/wiki/Loi_d%27orientation_et_de_programme_pour_l%27avenir_de_l%27%C3%A9cole",
+     "statut": "tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 38,
+   "theme": "Éducation",
+   "engagement": "Conforter l'autonomie des universités",
+   "statut": "non_tenu",
+   "note": "Aucune réforme d'ampleur avant la loi relative aux libertés et responsabilités des universités du 10 août 2007, votée sous le gouvernement Fillon.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/Loi_relative_aux_libert%C3%A9s_et_responsabilit%C3%A9s_des_universit%C3%A9s"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, loi LRU",
+     "url": "https://fr.wikipedia.org/wiki/Loi_relative_aux_libert%C3%A9s_et_responsabilit%C3%A9s_des_universit%C3%A9s",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": true
+  },
+  {
+   "n": 39,
+   "theme": "Europe/International",
+   "engagement": "Faire adopter une Constitution européenne par référendum",
+   "statut": "non_tenu",
+   "note": "Traité constitutionnel signé en 2004 mais rejeté par 54,67 % des votants au référendum français du 29 mai 2005 ; aucun référendum européen n'a eu lieu.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_fran%C3%A7ais_sur_le_trait%C3%A9_%C3%A9tablissant_une_Constitution_pour_l%27Europe",
+    "https://www.vie-publique.fr/discours/146982-declaration-de-m-jacques-chirac-president-de-la-republique-sur-les-re"
+   ],
+   "verdicts": [
+    {
+     "src": "Wikipédia FR, référendum de 2005",
+     "url": "https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_fran%C3%A7ais_sur_le_trait%C3%A9_%C3%A9tablissant_une_Constitution_pour_l%27Europe",
+     "statut": "non_tenu"
+    },
+    {
+     "src": "vie-publique.fr, déclaration de Jacques Chirac du 29 mai 2005",
+     "url": "https://www.vie-publique.fr/discours/146982-declaration-de-m-jacques-chirac-president-de-la-republique-sur-les-re",
+     "statut": "non_tenu"
+    }
+   ],
+   "flag": false
+  },
+  {
+   "n": 40,
+   "theme": "Europe/International",
+   "engagement": "Rétablir les crédits d'équipement des armées",
+   "statut": "tenu",
+   "note": "Loi de programmation militaire 2003-2008 respectée année après année selon le Sénat ; un bilan parlementaire de 2009 juge l'exécution contrastée.",
+   "sources": [
+    "https://www.elysee.fr/jacques-chirac/2002/03/25/programme-de-m-jacques-chirac-president-de-la-republique-et-candidat-a-lelection-presidentielle-2002-intitule-mon-engagement-pour-la-france-mars-2002",
+    "https://www.senat.fr/rap/r06-370/r06-3700.html",
+    "https://www.assemblee-nationale.fr/13/pdf/rap-info/i2565.pdf",
+    "https://fr.wikipedia.org/wiki/Loi_de_programmation_militaire"
+   ],
+   "verdicts": [
+    {
+     "src": "Sénat, rapport d'information n° 370 (2006-2007) sur l'exécution de la LPM",
+     "url": "https://www.senat.fr/rap/r06-370/r06-3700.html",
+     "statut": "tenu"
+    },
+    {
+     "src": "Assemblée nationale, rapport d'information n° 2565 (janvier 2009)",
+     "url": "https://www.assemblee-nationale.fr/13/pdf/rap-info/i2565.pdf",
+     "statut": "partiel"
+    },
+    {
+     "src": "Wikipédia FR, Loi de programmation militaire",
+     "url": "https://fr.wikipedia.org/wiki/Loi_de_programmation_militaire",
+     "statut": "tenu"
+    }
+   ],
+   "flag": true
+  }
+ ],
+ "elu": "82,2 %",
+ "elu_note": "Second tour du 5 mai 2002 face à Jean-Marie Le Pen ; 19,9 % au premier tour.",
+ "phares": [
+  {
+   "t": "Réforme des retraites Fillon",
+   "d": "La loi du 21 août 2003 aligne la durée de cotisation des fonctionnaires sur 40 ans, crée la surcote, les départs pour carrières longues et le PERP."
+  },
+  {
+   "t": "Acte II de la décentralisation",
+   "d": "La révision du 28 mars 2003 inscrit l'organisation décentralisée dans la Constitution et la loi du 13 août 2004 transfère de nouvelles compétences aux collectivités."
+  },
+  {
+   "t": "Charte de l'environnement",
+   "d": "Adossée à la Constitution le 1er mars 2005, elle consacre notamment le principe de précaution."
+  },
+  {
+   "t": "Sécurité routière",
+   "d": "Grand chantier présidentiel avec radars automatiques dès 2003 : les tués sur les routes passent de 7 242 en 2002 à 4 709 en 2006."
+  },
+  {
+   "t": "Plan cancer et loi handicap",
+   "d": "Plan cancer 2003-2007 avec l'Institut national du cancer, puis loi du 11 février 2005 créant le droit à compensation du handicap."
+  },
+  {
+   "t": "Lois de programmation sécurité et justice",
+   "d": "LOPSI (29 août 2002) et LOPJ (9 septembre 2002) : 13 500 emplois de police et gendarmerie, juges de proximité, centres éducatifs fermés."
+  }
+ ]
+}

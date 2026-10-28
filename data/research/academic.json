@@ -1,0 +1,85 @@
+{
+ "S": {
+  "headline": {
+   "n": 164,
+   "tenu_pct": 32,
+   "partiel_pct": 18,
+   "non_tenu_pct": 50,
+   "label": "Bouillaud, Guinaudeau, Persico, « Parole tenue ? », Gouvernement et action publique, 2017",
+   "url": "https://doi.org/10.3917/gap.173.0085",
+   "note": "32 % tenues en totalité et 50 % au moins partiellement (ventilation reprise par Mendes et Schäller 2025, tableau 3). Le résumé de l'article dit « un peu plus de la moitié » tenues ; Grossman et Guinaudeau (The Conversation, janvier 2026, base Partipol) donnent 54 % de réalisation partielle ou complète. Texte intégral sur Cairn, non consulté (accès bloqué)."
+  },
+  "map": [
+   {
+    "n": 28,
+    "statut": "tenu",
+    "note": "Hausse de 25 % du minimum vieillesse, étudiée comme cas de promesse tenue par Guinaudeau et Costa, RFSP 2018 (doi 10.3917/rfsp.682.0291)"
+   },
+   {
+    "n": 39,
+    "statut": "tenu",
+    "note": "Création d'un ministère de l'Intégration et de l'Identité nationale, codée « fully fulfilled » (Mendes et Schäller, MIDEM (TU Dresden) 2025, promesses sur l'immigration)"
+   },
+   {
+    "n": 40,
+    "statut": "non_tenu",
+    "note": "Quotas ou plafonds annuels d'immigration, codée « unfulfilled » (Mendes et Schäller, MIDEM (TU Dresden) 2025, promesses sur l'immigration)"
+   },
+   {
+    "n": 42,
+    "statut": "tenu",
+    "note": "Durcissement du regroupement familial et exigence de langue française, deux promesses codées « fully fulfilled » (loi du 20 novembre 2007) (Mendes et Schäller, MIDEM (TU Dresden) 2025, promesses sur l'immigration)"
+   }
+  ]
+ },
+ "H": {
+  "headline": {
+   "n": null,
+   "tenu_pct": null,
+   "partiel_pct": null,
+   "non_tenu_pct": null,
+   "label": "Grossman et Guinaudeau, « Does It Pay to Keep One's Word? », French Democracy in Distress, Palgrave, 2025 (base Partipol)",
+   "url": "https://theconversation.com/en-france-tenir-ses-promesses-electorales-ne-rapporte-rien-272193",
+   "note": "Aucun chiffre académique publié et accessible pour Hollande seul : la synthèse de Grossman et Guinaudeau le cite seulement parmi les taux de réalisation élevés, derrière Macron (plus de 70 %). Le chapitre Springer est payant et n'a pas été consulté."
+  },
+  "map": [
+   {
+    "n": 31,
+    "statut": "tenu",
+    "note": "Mariage et adoption pour les couples de même sexe, promesse tenue étudiée dans « Les coûts cachés d'une promesse incontournable », RFSP 2018 (dossier Partipol, Persico coauteur)"
+   },
+   {
+    "n": 50,
+    "statut": "non_tenu",
+    "note": "Droit de vote des étrangers aux élections locales, codée « unfulfilled » (Mendes et Schäller, MIDEM (TU Dresden) 2025, promesses sur l'immigration)"
+   }
+  ]
+ },
+ "M17": {
+  "headline": {
+   "n": null,
+   "tenu_pct": null,
+   "partiel_pct": null,
+   "non_tenu_pct": null,
+   "label": "Grossman et Guinaudeau, The Conversation, janvier 2026 (base Partipol, 921 promesses 1995-2022)",
+   "url": "https://theconversation.com/en-france-tenir-ses-promesses-electorales-ne-rapporte-rien-272193",
+   "note": "Taux de réalisation partielle ou complète supérieur à 70 % pour le premier quinquennat. Nombre de promesses et ventilation tenu, partiel, non tenu non publiés dans les sources accessibles."
+  },
+  "map": [
+   {
+    "n": 33,
+    "statut": "non_tenu",
+    "note": "Reconduire sans délai les déboutés de l'asile, codée « unfulfilled » (Mendes et Schäller, MIDEM (TU Dresden) 2025, promesses sur l'immigration)"
+   },
+   {
+    "n": 34,
+    "statut": "partiel",
+    "note": "Examen des demandes d'asile en moins de six mois, appel compris, codée « partially fulfilled » (Mendes et Schäller, MIDEM (TU Dresden) 2025, promesses sur l'immigration)"
+   }
+  ]
+ },
+ "_sources": {
+  "partipol_per_pledge_data": "Non publiée (aucun dépôt Dataverse, data.sciencespo, HAL ou OSF trouvé). Le jeu CPPG de Thomson et al. 2017 (Dataverse YJUIBI) ne couvre pas la France.",
+  "midem": "https://forum-midem.de/wp-content/uploads/2025/04/TUD_MIDEM_PolicyPaper_2025-2-Immigration-Policy-and-Electoral-Mandates.pdf"
+ }
+}

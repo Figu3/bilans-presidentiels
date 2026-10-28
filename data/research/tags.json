@@ -1,0 +1,1344 @@
+{
+ "S": {
+  "1": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "2": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "3": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "4": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "5": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "6": {
+   "poids": 2,
+   "crise": "Crise financière 2008",
+   "crise_note": "La récession de 2009 et la chute des recettes ont conduit à des hausses de prélèvements dès 2011 (plans Fillon), à rebours de l'objectif de baisse."
+  },
+  "7": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "8": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "9": {
+   "poids": 3,
+   "crise": "Crise financière 2008",
+   "crise_note": "Le chômage, tombé à 7,2 % début 2008, remonte au-dessus de 9 % avec la récession de 2009, raison communément avancée de l'échec."
+  },
+  "10": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "11": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "12": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "13": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "14": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "15": {
+   "poids": 2,
+   "crise": "Crise financière 2008",
+   "crise_note": "La dette passe d'environ 64 % à 90 % du PIB entre 2007 et 2012, sous l'effet de la récession et du plan de relance."
+  },
+  "16": {
+   "poids": 2,
+   "crise": "Crise financière 2008",
+   "crise_note": "Le déficit atteint 7,5 % du PIB en 2009 avec l'effondrement des recettes et le plan de relance."
+  },
+  "17": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "18": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "19": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "20": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "21": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "22": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "23": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "24": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "25": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "26": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "27": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "28": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "29": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "30": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "31": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "32": {
+   "poids": 1,
+   "crise": "Crise de la zone euro",
+   "crise_note": "La réforme de la dépendance est reportée en août 2011 par le gouvernement Fillon, qui invoque explicitement la crise des dettes souveraines."
+  },
+  "33": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "34": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "35": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "36": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "37": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "38": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "39": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "40": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "41": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "42": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "43": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "44": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "45": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "46": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "47": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "48": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "49": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  }
+ },
+ "H": {
+  "1": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "2": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "3": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "4": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "5": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "6": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "7": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "8": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "9": {
+   "poids": 3,
+   "crise": "Crise de la zone euro",
+   "crise_note": "La croissance quasi nulle de 2012-2013, liée à la récession de la zone euro, a fait dériver la trajectoire et conduit à des reports successifs de l'objectif de 3 % négociés avec Bruxelles."
+  },
+  "10": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "11": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "12": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "13": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "14": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "15": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "16": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "17": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "18": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "19": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "20": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "21": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "22": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "23": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "24": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "25": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "26": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "27": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "28": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "29": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "30": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "31": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "32": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "33": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "34": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "35": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "36": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "37": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "38": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "39": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "40": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "41": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "42": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "43": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "44": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "45": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "46": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "47": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "48": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "49": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "50": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "51": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "52": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "53": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "54": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "55": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "56": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "57": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "58": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "59": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "60": {
+   "poids": 1,
+   "crise": "Attentats 2015-2016",
+   "crise_note": "Après les attentats de janvier 2015, la loi de programmation militaire est actualisée : suppressions de postes annulées et budget rehaussé, opération Sentinelle."
+  }
+ },
+ "M17": {
+  "1": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "2": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "3": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "4": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "5": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "6": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "7": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "8": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "9": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "10": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "11": {
+   "poids": 1,
+   "crise": "Covid-19",
+   "crise_note": "La dépense publique bondit à plus de 60 % du PIB en 2020 avec les mesures d'urgence sanitaire et économique."
+  },
+  "12": {
+   "poids": 2,
+   "crise": "Covid-19",
+   "crise_note": "Le déficit, ramené sous 3 % en 2018-2019, atteint environ 9 % du PIB en 2020 avec la crise sanitaire."
+  },
+  "13": {
+   "poids": 3,
+   "crise": "Covid-19",
+   "crise_note": "Le chômage, à 8,1 % fin 2019, est perturbé par la crise sanitaire de 2020 ; l'objectif de 7 % n'est approché qu'en fin de mandat."
+  },
+  "14": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "15": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "16": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "17": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "18": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "19": {
+   "poids": 3,
+   "crise": "Covid-19",
+   "crise_note": "La réforme des retraites par points, adoptée en première lecture par 49.3, est suspendue le 16 mars 2020 en raison de l'épidémie."
+  },
+  "20": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "21": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "22": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "23": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "24": {
+   "poids": 1,
+   "crise": "Covid-19",
+   "crise_note": "La concertation sur le revenu universel d'activité est interrompue au printemps 2020 par la crise sanitaire et n'est pas reprise."
+  },
+  "25": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "26": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "27": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "28": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "29": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "30": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "31": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "32": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "33": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "34": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "35": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "36": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "37": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "38": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "39": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "40": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "41": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "42": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "43": {
+   "poids": 1,
+   "crise": "Guerre en Ukraine / inflation",
+   "crise_note": "La crise énergétique liée à la guerre en Ukraine conduit à relancer la centrale charbon de Saint-Avold à l'hiver 2022 et à repousser les fermetures."
+  },
+  "44": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "45": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "46": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "47": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "48": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "49": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "50": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  }
+ },
+ "M22": {
+  "1": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "2": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "3": {
+   "poids": 3,
+   "crise": "Absence de majorité (2022-2024)",
+   "crise_note": "Faute de majorité absolue, l'âge cible est ramené à 64 ans pour obtenir le soutien de LR, puis la loi passe par le 49.3 en mars 2023."
+  },
+  "4": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "5": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "6": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "7": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "8": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "9": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "10": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "11": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "12": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "13": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "14": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "15": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "16": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "17": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "18": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "19": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "20": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "21": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "22": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "23": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "24": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "25": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "26": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "27": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "28": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "29": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "30": {
+   "poids": 2,
+   "crise": "Dissolution 2024",
+   "crise_note": "L'examen du projet de loi sur la fin de vie, en cours à l'Assemblée, est interrompu par la dissolution de juin 2024 et doit reprendre à zéro."
+  },
+  "31": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "32": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  }
+ },
+ "C2": {
+  "1": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "2": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "3": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "4": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "5": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "6": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "7": {
+   "poids": 3,
+   "crise": "Ralentissement 2002-2003",
+   "crise_note": "Le ralentissement de 2002-2003 (croissance d'environ 1 % en 2003) fait remonter le chômage de 7,9 % à près de 9 % en 2004-2006, cause généralement avancée de l'échec."
+  },
+  "8": {
+   "poids": 1,
+   "crise": "Crise du CPE 2006",
+   "crise_note": "Le CPE, adopté sans concertation préalable, est retiré en avril 2006 après la mobilisation ; la loi du 31 janvier 2007 sur le dialogue social en tire les conséquences."
+  },
+  "9": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "10": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "11": {
+   "poids": 2,
+   "crise": "Ralentissement 2002-2003",
+   "crise_note": "Le déficit dépasse 4 % du PIB en 2003 ; le gouvernement invoque la faible croissance pour justifier le dépassement et la procédure de déficit excessif ouverte en 2003."
+  },
+  "12": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "13": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "14": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "15": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "16": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "17": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "18": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "19": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "20": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "21": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "22": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "23": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "24": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "25": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "26": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "27": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "28": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "29": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "30": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "31": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "32": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "33": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "34": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "35": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "36": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "37": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "38": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "39": {
+   "poids": 2,
+   "crise": "Non au référendum de 2005",
+   "crise_note": "Le traité constitutionnel est rejeté par 54,67 % des votants le 29 mai 2005, ce qui met fin au projet de Constitution européenne."
+  },
+  "40": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  }
+ },
+ "C1": {
+  "1": {
+   "poids": 3,
+   "crise": "Contraintes de l'euro",
+   "crise_note": "Le 26 octobre 1995, Chirac annonce que la réduction des déficits pour qualifier la France à la monnaie unique devient la priorité, ce qui relègue la fracture sociale."
+  },
+  "2": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "3": {
+   "poids": 2,
+   "crise": "Contraintes de l'euro",
+   "crise_note": "La loi de finances rectificative de l'été 1995 relève la TVA de 2 points et surtaxe l'IS et l'ISF pour réduire un déficit jugé incompatible avec les critères de Maastricht."
+  },
+  "4": {
+   "poids": 2,
+   "crise": "Dissolution et cohabitation 1997",
+   "crise_note": "Seule la première étape (1997) du plan Juppé de baisse de l'impôt sur le revenu est appliquée avant la dissolution d'avril 1997 ; le gouvernement Jospin ne poursuit pas le plan."
+  },
+  "5": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "6": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "7": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "8": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "9": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "10": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "11": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "12": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "13": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "14": {
+   "poids": 3,
+   "crise": null,
+   "crise_note": null
+  },
+  "15": {
+   "poids": 3,
+   "crise": "Grèves de 1995",
+   "crise_note": "Les grèves de novembre-décembre 1995 contraignent le gouvernement Juppé à retirer le volet retraites (régimes spéciaux) du plan de réforme de la Sécurité sociale."
+  },
+  "16": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "17": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "18": {
+   "poids": 2,
+   "crise": "Dissolution et cohabitation 1997",
+   "crise_note": "Le projet de loi Juppé sur la cohésion sociale est interrompu par la dissolution du 21 avril 1997 ; la loi contre les exclusions est votée sous Jospin en 1998."
+  },
+  "19": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "20": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "21": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "22": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "23": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "24": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "25": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "26": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "27": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "28": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "29": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "30": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "31": {
+   "poids": 2,
+   "crise": null,
+   "crise_note": null
+  },
+  "32": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "33": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "34": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  },
+  "35": {
+   "poids": 1,
+   "crise": null,
+   "crise_note": null
+  }
+ }
+}
