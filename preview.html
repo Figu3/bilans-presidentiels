@@ -1,5 +1,9 @@
 <!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Bilans présidentiels 1995-2027</title>
 <meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Six mandats présidentiels, de Chirac à Macron, face à leurs promesses : statuts croisés entre plusieurs sources, promesses phares, crises et popularité mois par mois.">
+<meta property="og:title" content="Bilans présidentiels 1995-2027">
+<meta property="og:description" content="De Chirac à Macron, six mandats face à leurs promesses.">
+<meta property="og:type" content="article">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600;6..72,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
 <style>
@@ -66,7 +70,20 @@ table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nu
 .legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 0.84rem; }
 .legend i { display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; }
 
+details.fold > summary { cursor: pointer; list-style: none; padding: 12px 16px; font-size: 0.88rem; color: var(--accent); font-weight: 500; }
+details.fold > summary::-webkit-details-marker { display: none; }
+details.fold > summary::before { content: "+"; display: inline-block; width: 1.1em; font-family: var(--f-mono); }
+details.fold[open] > summary::before { content: "−"; }
+details.fold[open] > summary { border-bottom: 1px solid var(--rule); }
+.cmp-cards { display: none; }
+.cc { padding: 12px 14px; border-top: 3px solid; display: flex; flex-direction: column; gap: 8px; }
+.cc .nm { font-family: var(--f-display); font-weight: 600; font-size: 1.05rem; }
+.cc .nm small { font-family: var(--f-mono); font-size: 0.68rem; font-weight: 400; color: var(--muted); }
+.cc dl { margin: 0; display: grid; grid-template-columns: 1fr auto; gap: 4px 10px; font-size: 0.84rem; align-items: baseline; }
+.cc dt { color: var(--muted); } .cc dd { margin: 0; text-align: right; font-variant-numeric: tabular-nums; }
+.cc dd b { font-family: var(--f-display); font-size: 1.05rem; }
 .chart-box { padding: 16px 14px 10px; }
+#chart .endlab { font-family: var(--f-body); font-size: 11px; font-weight: 600; paint-order: stroke; stroke: var(--paper); stroke-width: 3.5px; stroke-linejoin: round; }
 #chart { display: block; width: 100%; min-width: 660px; height: auto; }
 #chart text { font-family: var(--f-mono); font-size: 10.5px; fill: var(--muted); }
 .chart-legend { display: flex; flex-wrap: wrap; gap: 6px 20px; font-size: 0.84rem; padding: 0 6px 8px; }
@@ -76,10 +93,11 @@ table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nu
 .themes td, .themes th { padding: 8px 12px; border-bottom: 1px solid var(--rule); font-size: 0.88rem; }
 .themes thead th { text-align: left; font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); font-weight: 500; }
 .themes tbody th { text-align: left; font-weight: 500; white-space: nowrap; }
-.cell { display: flex; align-items: center; gap: 8px; min-width: 120px; }
-.cell .track { flex: 1; height: 8px; background: var(--rule); border-radius: 4px; overflow: hidden; }
-.cell .track i { display: block; height: 100%; background: var(--ok); }
-.cell span { font-family: var(--f-mono); font-size: 0.76rem; color: var(--muted); white-space: nowrap; min-width: 34px; text-align: right; }
+.themes td { min-width: 92px; vertical-align: middle; }
+.hm { display: flex; gap: 1px; height: 18px; border-radius: 3px; overflow: hidden; }
+.hm i { display: block; }
+.hm-n { display: block; font-family: var(--f-mono); font-size: 0.72rem; color: var(--muted); margin-top: 3px; }
+.hm-na { text-align: center; }
 
 .same { display: flex; flex-direction: column; }
 .same-row { display: grid; grid-template-columns: 130px repeat(5, 1fr); gap: 14px; padding: 14px 18px; border-bottom: 1px solid var(--rule); align-items: start; }
@@ -118,6 +136,7 @@ button:focus-visible, select:focus-visible, input:focus-visible, circle:focus-vi
 select, input[type="search"] { font: inherit; font-size: 0.86rem; padding: 6px 10px; border: 1px solid var(--rule); border-radius: 6px; background: var(--paper); color: var(--ink); }
 input[type="search"] { flex: 1 1 200px; min-width: 0; }
 .count { font-family: var(--f-mono); font-size: 0.78rem; color: var(--muted); }
+.chip.more { align-self: center; padding: 8px 18px; }
 .ledger { display: flex; flex-direction: column; }
 .row { display: grid; grid-template-columns: 40px 1fr 104px; gap: 14px; padding: 14px 18px; border-bottom: 1px solid var(--rule); align-items: start; }
 .row:last-child { border-bottom: 0; }
@@ -141,6 +160,7 @@ input[type="search"] { flex: 1 1 200px; min-width: 0; }
 
 .method { font-size: 0.88rem; color: var(--muted); display: flex; flex-direction: column; gap: 10px; max-width: 74ch; }
 .method b { color: var(--ink); font-weight: 500; }
+.foot { display: flex; flex-direction: column; gap: 6px; border-top: 1px solid var(--rule); padding-top: 18px; font-size: 0.82rem; color: var(--muted); }
 .grid-def { display: grid; grid-template-columns: auto 1fr; gap: 6px 14px; align-items: baseline; }
 
 /* header scorecard: one card per mandate, chronological */
@@ -175,6 +195,8 @@ section { scroll-margin-top: 56px; }
   .score .nm { font-size: 0.9rem; }
   .score .big { font-size: 1.35rem; }
   .score .big small, .score .pop { display: none; }
+  .cmp-key { display: none; }
+  .cmp-cards { display: grid; grid-template-columns: 1fr; gap: 8px; }
 }
 @media (max-width: 760px) {
   .duo { grid-template-columns: 1fr; }
@@ -198,7 +220,9 @@ section { scroll-margin-top: 56px; }
   <section id="comparatif">
     <div class="sec-head"><span class="eyebrow">Comparatif</span><h2>Six mandats côte à côte</h2>
       <p class="lede">Les taux ne portent pas sur le même nombre de promesses : 60 engagements officiels pour Hollande, une sélection des promesses les plus vérifiables pour les autres. Chirac I est un septennat, dont cinq ans de cohabitation avec Lionel Jospin. Le second mandat Macron n'est pas terminé.</p></div>
-    <div class="box scroll"><table class="cmp" id="cmp"></table></div>
+    <div class="box scroll cmp-key"><table class="cmp" id="cmp"></table></div>
+    <div class="cmp-cards" id="cmp-cards"></div>
+    <details class="box fold"><summary>Voir le détail : élection, partielles, crises, autres bilans, popularité</summary><div class="scroll"><table class="cmp" id="cmp-full"></table></div></details>
     <div class="box bars" id="bars"></div>
   </section>
 
@@ -207,17 +231,17 @@ section { scroll-margin-top: 56px; }
       <p class="lede">Baromètre IFOP, part des « satisfaits » du président, alignée sur le mois de mandat pour comparer les trajectoires. Presque tous perdent de 15 à 36 points dès la première année. Chirac fait exception deux fois : tombé à 27 % en novembre 1995, au début des grèves, il remonte jusqu'à 64 % pendant la cohabitation ; réélu en 2002, il culmine à 67 % lors du refus de la guerre en Irak, puis finit à 41 %. Sarkozy se stabilise entre 30 et 40 % et finit à 36 % ; Hollande descend jusqu'à 13 % ; Macron remonte autour de 40 % avec le Covid, puis son second mandat glisse sous 20 %.</p></div>
     <div class="box chart-box">
       <div class="chart-tabs" id="chart-tabs" role="group" aria-label="Mettre un mandat en avant"></div>
-      <div class="chart-legend"><span><i class="dot bg-S"></i>Sarkozy 2007-2012</span><span><i class="dot bg-H"></i>Hollande 2012-2017</span><span><i class="dot bg-M17"></i>Macron 2017-2022</span><span><i class="dot bg-M22"></i>Macron depuis 2022</span></div>
       <div class="scroll"><svg id="chart" viewBox="0 0 860 330" role="img" aria-label="Popularité IFOP des six mandats selon le mois de mandat"></svg></div>
-      <p class="note">Pour Sarkozy, la cote de confiance TNS Sofres suit la même forme (de 65 % en juillet 2007 à 20 % en mai 2011). Le chiffre de 4 % souvent cité pour Hollande vient d'une autre enquête (Ipsos-Cevipof) et n'est pas comparable. La cote de confiance Elabe, publiée pour Macron, suit la même forme que la courbe IFOP (point bas à 14 % en octobre 2025). Mois sans mesure : avril 2015, juillet et août 2024. Choisissez un mandat pour voir ses événements marquants et la courbe d'un second institut.</p>
+      <p class="note">Un mandat à la fois, avec ses événements marquants et la courbe d'un second institut ; « Tous » superpose les six courbes. Pour Sarkozy, la cote de confiance TNS Sofres suit la même forme (de 65 % en juillet 2007 à 20 % en mai 2011). Le chiffre de 4 % souvent cité pour Hollande vient d'une autre enquête (Ipsos-Cevipof) et n'est pas comparable. La cote de confiance Elabe, publiée pour Macron, suit la même forme que la courbe IFOP (point bas à 14 % en octobre 2025). Mois sans mesure : avril 2015, juillet et août 2024.</p>
       <p class="note" id="chart-note2"></p>
     </div>
   </section>
 
   <section id="themes">
     <div class="sec-head"><span class="eyebrow">Par thème</span><h2>Où chaque mandat a tenu ses promesses</h2>
-      <p class="lede">Part des promesses tenues en totalité, par thème. Les petits effectifs (deux ou trois promesses) se lisent avec prudence.</p></div>
+      <p class="lede">Chaque case répartit les promesses du thème selon leur statut ; le chiffre compte les promesses tenues en totalité. Les petits effectifs (deux ou trois promesses) se lisent avec prudence.</p></div>
     <div class="box scroll"><table class="themes" id="themes-t"></table></div>
+    <div class="legend" id="themes-legend"></div>
   </section>
 
   <section id="memes">
@@ -364,15 +388,17 @@ section { scroll-margin-top: 56px; }
     <div class="controls">
       <div id="chips" style="display:flex;flex-wrap:wrap;gap:8px"></div>
       <select id="theme" aria-label="Filtrer par thème"><option value="">Tous les thèmes</option></select>
-      <input id="q" type="search" placeholder="Chercher (ex. retraite, nucléaire)" aria-label="Chercher une promesse">
+      <input id="q" type="search" placeholder="Chercher dans les six mandats (ex. retraite, nucléaire)" aria-label="Chercher une promesse dans tous les mandats">
     </div>
     <span class="count" id="count"></span>
     <div class="box ledger" id="ledger"></div>
+    <button type="button" class="chip more" id="more" hidden></button>
   </section>
 
   <section id="methode">
     <div class="sec-head"><span class="eyebrow">Méthode</span><h2>Comment ce comparatif est construit</h2></div>
-    <div class="method">
+    <details class="box fold"><summary>Lire la méthode, les sources et les limites</summary>
+    <div class="method" style="padding:16px 18px">
       <div class="grid-def">
         <span class="pill s-tenu">Tenu</span><span>Mesure adoptée et mise en œuvre pour l'essentiel comme promis.</span>
         <span class="pill s-partiel">Partiel</span><span>Mise en œuvre incomplète ou édulcorée, ou objectif chiffré manqué malgré une vraie mesure.</span>
@@ -384,7 +410,12 @@ section { scroll-margin-top: 56px; }
       <p><b>Sources croisées.</b> Lui Président (partenaire du Monde, compté comme une seule source avec lui), l'étude universitaire de Bouillaud, Guinaudeau et Persico sur Sarkozy, le baromètre des réformes de l'Institut Thomas More (mars 2012), le Sarkomètre de L'Obs, L'Obs, franceinfo, LCP, l'iFRAP, Contrepoints, le JDD, l'IPP, la Cour des comptes, le Sénat, l'Assemblée nationale, l'Insee, la Dares, la Drees et la DGAFP. Popularité : baromètre mensuel IFOP (JDD jusqu'en novembre 2025, L'Opinion ensuite, même question). Second institut : la cote de confiance du Figaro Magazine (Sofres, puis Kantar, aujourd'hui Verian), même question depuis 1995, en face à face jusqu'en 2020 puis en ligne ; les valeurs après octobre 2020 sont lues sur la courbe du rapport Verian d'octobre 2026.</p>
       <p><b>Limites.</b> Le Monde, Libération, Les Échos et Le Figaro n'étaient pas lisibles. Pour Chirac, aucun tracker d'époque n'existe : les verdicts croisent Wikipédia, Vie publique, l'Assemblée, le Sénat, la Cour des comptes et l'Insee. Pour Sarkozy, il n'existe pas de tracker de fin de mandat lisible : beaucoup de verdicts reposent sur Wikipédia et l'Institut Thomas More, et 24 promesses sur 49 sont marquées « avis divergent ». Pour 39 engagements de Hollande, la seule source indépendante est le bilan de mi-mandat de 2014. Aucun tracker ne suit le programme Macron 2022 : ses verdicts sont notre lecture des faits rapportés par chaque source. Certaines dates de lois viennent de connaissances générales et méritent une vérification avant citation.</p>
     </div>
+    </details>
   </section>
+  <footer class="foot">
+    <span>Données au 28 octobre 2026. Le second mandat Macron sera mis à jour à son terme, en mai 2027.</span>
+    <span>Sources, données et code : <a href="https://github.com/Figu3/bilans-presidentiels">github.com/Figu3/bilans-presidentiels</a>. Une erreur, une source manquante ? Ouvrez une issue sur le dépôt.</span>
+  </footer>
 </div>
 <div id="tip" hidden></div>
 
@@ -474,9 +505,19 @@ document.getElementById("score").innerHTML = DOSS.map(d => `<a href="#${d.anchor
     ["Moyenne", d => `${d.pAvg} %`],
     ["Dernière mesure", d => `${d.pEnd[1]} % <span class="note">${fmtMois(d.pEnd[0])}</span>`]
   ];
-  document.getElementById("cmp").innerHTML = head + "<tbody>" + rows.map(r => r[0] === "grp"
+  const KEY = [
+    ["Tenues en totalité", d => `<b>${pct(d.c.tenu, d.n)}</b> <span class="note">${d.c.tenu} sur ${d.n}</span>`],
+    ["Pondéré par l'importance", d => `<b>${Math.round(d.wImp * 100)} %</b>`],
+    ["Promesses phares tenues", d => `<b>${d.phT}</b> <span class="note">sur ${d.phN}</span>`],
+    ["Popularité IFOP moyenne", d => `<b>${d.pAvg} %</b> <span class="note">plus bas ${d.pMin[1]} %</span>`]
+  ];
+  const table = rs => head + "<tbody>" + rs.map(r => r[0] === "grp"
     ? `<tr class="grp"><th colspan="${DOSS.length + 1}">${r[1]}</th></tr>`
     : `<tr><th>${r[0]}</th>${DOSS.map(d => `<td>${r[1](d)}</td>`).join("")}</tr>`).join("") + "</tbody>";
+  document.getElementById("cmp").innerHTML = table(KEY);
+  document.getElementById("cmp-full").innerHTML = table(rows);
+  document.getElementById("cmp-cards").innerHTML = DOSS.map(d => `<div class="box cc" style="border-top-color:${d.col}"><span class="nm" style="color:${d.col}">${d.name} <small>${d.period}</small></span>
+    <dl>${KEY.map(r => `<dt>${r[0]}</dt><dd>${r[1](d)}</dd>`).join("")}</dl></div>`).join("");
   document.getElementById("bars").innerHTML = DOSS.map(d => `<div><div class="lab"><span><i class="dot" style="background:${d.col}"></i><b>${d.name}</b> ${d.period}</span><span class="note">${d.sub}</span></div>
     <div class="bar" role="img" aria-label="${d.name} : ${d.c.tenu} tenues, ${d.c.partiel} partielles, ${d.c.non_tenu} non tenues, ${d.c.en_cours} en cours">${Object.keys(LABEL).filter(k => d.c[k]).map(k =>
       `<span style="width:${d.c[k] / d.n * 100}%;background:${COLOR[k]}">${d.c[k]}</span>`).join("")}</div></div>`).join("")
@@ -487,15 +528,15 @@ document.getElementById("score").innerHTML = DOSS.map(d => `<a href="#${d.anchor
 (function () {
   const svg = document.getElementById("chart"), NS = "http://www.w3.org/2000/svg";
   const N = Math.max(...DOSS.map(d => d.pop.length));
-  const W = 860, H = 330, L = 40, R = 20, T = 20, B = 40, yMax = 80;
+  const W = 860, H = 330, L = 40, R = 84, T = 20, B = 40, yMax = 80;
   svg.setAttribute("aria-label", `Popularité IFOP des ${DOSS.length} mandats selon le mois de mandat`);
   const x = i => L + i * (W - L - R) / (N - 1), y = v => T + (1 - v / yMax) * (H - T - B);
   const el = (tag, a, p = svg) => { const e = document.createElementNS(NS, tag); for (const k in a) e.setAttribute(k, a[k]); p.appendChild(e); return e; };
   const tip = document.getElementById("tip");
   const tabs = document.getElementById("chart-tabs");
-  let sel = "";
-  [["", "Tous"], ...DOSS.map(d => [d.id, `${d.name}`])].forEach(([id, label]) => { const b = document.createElement("button"); b.type = "button"; b.textContent = label;
-    b.setAttribute("aria-pressed", id === "" ? "true" : "false"); b.onclick = () => { sel = id; tabs.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b ? "true" : "false")); draw(); }; tabs.appendChild(b); });
+  let sel = DOSS[DOSS.length - 1].id;
+  [...DOSS.map(d => [d.id, `${d.name}`]), ["", "Tous"]].forEach(([id, label]) => { const b = document.createElement("button"); b.type = "button"; b.textContent = label;
+    b.setAttribute("aria-pressed", id === sel ? "true" : "false"); b.onclick = () => { sel = id; tabs.querySelectorAll("button").forEach(x => x.setAttribute("aria-pressed", x === b ? "true" : "false")); draw(); }; tabs.appendChild(b); });
   const line = (d, series, attrs) => { const segs = []; let cur = [];
     series.forEach((p, i) => { const k = p[2] === undefined || series === d.pop ? i : p[2]; if (p[1] == null) { if (cur.length) segs.push(cur); cur = []; } else cur.push([k, p[1]]); }); if (cur.length) segs.push(cur);
     segs.forEach(s => el("polyline", { points: s.map(([i, v]) => `${x(i)},${y(v)}`).join(" "), fill: "none", stroke: d.col, "stroke-linejoin": "round", ...attrs })); };
@@ -514,32 +555,38 @@ document.getElementById("score").innerHTML = DOSS.map(d => `<a href="#${d.anchor
         el("text", { x: x(i) + 3, y: T + 9 + (k % 3) * 12, "text-anchor": i > N * 0.8 ? "end" : "start", dx: i > N * 0.8 ? -6 : 0 }, g).textContent = ev.label; });
       if (focus.pop2.length) line(focus, focus.pop2.map(p => [p[0], p[1], monthIdx(focus, p[0])]), { "stroke-width": 1.6, "stroke-dasharray": "5 4", opacity: 0.85 });
     }
+    const ends = [];
     DOSS.forEach(d => {
       const dim = focus && focus !== d;
       line(d, d.pop, { "stroke-width": focus === d ? 2.8 : 2.2, opacity: dim ? 0.13 : 0.95 });
       if (dim) return;
+      const last = d.pop.length - 1 - [...d.pop].reverse().findIndex(p => p[1] != null);
+      ends.push({ d, x: x(last), y: y(d.pop[last][1]) });
+      el("circle", { cx: x(last), cy: y(d.pop[last][1]), r: 4, fill: d.col });
       d.pop.forEach((p, i) => { if (p[1] == null) return;
         const c = el("circle", { cx: x(i), cy: y(p[1]), r: 5, fill: "transparent", tabindex: -1 });
         const show = () => { tip.hidden = false; tip.textContent = `${d.name}, mois ${i + 1} (${fmtMois(p[0])}) : ${p[1]} %${p[2] ? " (valeur déduite)" : ""}`;
           const r = c.getBoundingClientRect(); tip.style.left = Math.min(r.left + 10, innerWidth - 260) + "px"; tip.style.top = (r.top - 34) + "px"; };
         c.addEventListener("mouseenter", show); c.addEventListener("mouseleave", () => tip.hidden = true); });
-      const last = d.pop.length - 1 - [...d.pop].reverse().findIndex(p => p[1] != null);
-      el("circle", { cx: x(last), cy: y(d.pop[last][1]), r: 4, fill: d.col });
+      if (focus !== d) return;
       el("circle", { cx: x(d.pop.indexOf(d.pMin)), cy: y(d.pMin[1]), r: 4, fill: "var(--paper)", stroke: d.col, "stroke-width": 2 });
-      el("text", { x: x(d.pop.indexOf(d.pMin)), y: y(d.pMin[1]) + 17, "text-anchor": "middle", style: `fill:${d.col};font-weight:500` }).textContent = `${d.pMin[1]} %`;
+      el("text", { x: x(d.pop.indexOf(d.pMin)), y: y(d.pMin[1]) + 17, "text-anchor": "middle", style: `fill:${d.col};font-weight:500` }).textContent = `plus bas ${d.pMin[1]} %`;
     });
+    // direct labels at line ends, nudged apart when two ends are close
+    ends.sort((a, b) => a.y - b.y).forEach((e, i) => { const p = ends.slice(0, i).filter(o => Math.abs(o.x - e.x) < 90).pop(); if (p && e.y - p.ly < 13) e.ly = p.ly + 13; else e.ly = e.y;
+      el("text", { x: e.x + 8, y: e.ly + 3.5, class: "endlab", style: `fill:${e.d.col}` }).textContent = `${e.d.name} ${e.d.pop.filter(p => p[1] != null).pop()[1]} %`; });
     document.getElementById("chart-note2").textContent = focus && focus.pop2.length ? `Pointillés : ${DATA.meta.second.institut}, ${DATA.meta.second.mesure}.` : "";
   }
-  document.querySelector(".chart-legend").innerHTML = DOSS.map(d => `<span><i class="dot" style="background:${d.col}"></i>${d.name} ${d.period}</span>`).join("");
   draw();
 })();
 
 // themes
 (function () {
   const themes = [...new Set(DOSS.flatMap(d => d.eng.map(e => e.theme)))].sort((a, b) => a.localeCompare(b, "fr"));
-  const cell = (d, t) => { const rows = d.eng.filter(e => e.theme === t); if (!rows.length) return `<td><span class="note">aucune</span></td>`;
-    const k = rows.filter(e => e.statut === "tenu").length, r = k / rows.length;
-    return `<td><div class="cell"><div class="track"><i style="width:${r * 100}%"></i></div><span>${k}/${rows.length}</span></div></td>`; };
+  const cell = (d, t) => { const rows = d.eng.filter(e => e.theme === t); if (!rows.length) return `<td class="hm-na"><span class="note">·</span></td>`;
+    const c = {}; rows.forEach(e => c[e.statut] = (c[e.statut] || 0) + 1); const k = c.tenu || 0;
+    return `<td><div class="hm" role="img" aria-label="${d.name}, ${esc(t)} : ${k} tenues sur ${rows.length}">${Object.keys(LABEL).filter(s => c[s]).map(s => `<i style="flex:${c[s]};background:${COLOR[s]}"></i>`).join("")}</div><span class="hm-n">${k}/${rows.length}</span></td>`; };
+  document.getElementById("themes-legend").innerHTML = Object.keys(LABEL).map(k => `<span><i style="background:${COLOR[k]}"></i>${LABEL[k]}</span>`).join("") + '<span class="note">· aucune promesse sur ce thème</span>';
   document.getElementById("themes-t").innerHTML = `<thead><tr><th>Thème</th>${DOSS.map(d => `<th style="color:${d.col}">${d.name}</th>`).join("")}</tr></thead><tbody>`
     + themes.map(t => `<tr><th>${esc(t)}</th>${DOSS.map(d => cell(d, t)).join("")}</tr>`).join("") + "</tbody>";
 })();
@@ -550,9 +597,13 @@ const sw = document.getElementById("switch"), chips = document.getElementById("c
 DOSS.forEach(d => { const b = document.createElement("button"); b.type = "button"; b.id = "sw-" + d.id;
   b.innerHTML = `<i class="dot" style="background:${d.col}"></i>${d.name} <span class="note">${d.period}</span>`; b.onclick = () => setD(d.id); sw.appendChild(b); });
 themeSel.onchange = () => { state.theme = themeSel.value; render(); };
-document.getElementById("q").oninput = e => { state.q = e.target.value.trim().toLowerCase(); render(); };
+const fold = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const qIn = document.getElementById("q"), more = document.getElementById("more");
+qIn.oninput = () => { state.q = fold(qIn.value.trim()); render(); };
+more.onclick = () => { state.phare = false; chips.querySelector(".ph").setAttribute("aria-pressed", "false"); render(); };
 function setD(id) {
-  state.d = id; state.statut = ""; state.theme = ""; state.phare = false;
+  state.d = id; state.statut = ""; state.theme = ""; state.q = ""; qIn.value = "";
+  state.phare = DOSS.find(x => x.id === id).phN > 0;
   const d = DOSS.find(x => x.id === id);
   sw.querySelectorAll("button").forEach(b => b.setAttribute("aria-pressed", b.id === "sw-" + id ? "true" : "false"));
   document.getElementById("ledger-title").textContent = `${d.name} ${d.period} : les ${d.n} promesses, une par une`;
@@ -562,7 +613,7 @@ function setD(id) {
     b.textContent = `${label} · ${n}`; b.setAttribute("aria-pressed", k === "" ? "true" : "false");
     b.onclick = () => { state.statut = k; chips.querySelectorAll(".chip:not(.ph)").forEach(c => c.setAttribute("aria-pressed", c === b ? "true" : "false")); render(); };
     chips.appendChild(b); });
-  const ph = document.createElement("button"); ph.className = "chip ph"; ph.type = "button"; ph.textContent = `Phares · ${d.phN}`; ph.setAttribute("aria-pressed", "false");
+  const ph = document.createElement("button"); ph.className = "chip ph"; ph.type = "button"; ph.textContent = `Phares · ${d.phN}`; ph.setAttribute("aria-pressed", String(state.phare));
   ph.onclick = () => { state.phare = !state.phare; ph.setAttribute("aria-pressed", String(state.phare)); render(); }; chips.appendChild(ph);
   themeSel.length = 1;
   [...new Set(d.eng.map(e => e.theme))].sort((a, b) => a.localeCompare(b, "fr")).forEach(t => { const o = document.createElement("option"); o.value = t; o.textContent = t; themeSel.appendChild(o); });
@@ -570,16 +621,21 @@ function setD(id) {
 }
 function render() {
   const d = DOSS.find(x => x.id === state.d);
-  const rows = d.eng.filter(e => (!state.statut || e.statut === state.statut) && (!state.theme || e.theme === state.theme) && (!state.phare || e.poids === 3)
-    && (!state.q || (e.engagement + " " + e.note + " " + e.theme).toLowerCase().includes(state.q)));
-  document.getElementById("count").textContent = `${rows.length} promesse${rows.length > 1 ? "s" : ""} affichée${rows.length > 1 ? "s" : ""}`;
-  document.getElementById("ledger").innerHTML = rows.length ? rows.map(e => {
+  // a search runs across all mandates and ignores the other filters
+  const rows = state.q
+    ? DOSS.flatMap(dd => dd.eng.filter(e => fold(e.engagement + " " + e.note + " " + e.theme).includes(state.q)).map(e => [dd, e]))
+    : d.eng.filter(e => (!state.statut || e.statut === state.statut) && (!state.theme || e.theme === state.theme) && (!state.phare || e.poids === 3)).map(e => [d, e]);
+  const s = rows.length > 1 ? "s" : "";
+  document.getElementById("count").textContent = state.q ? `${rows.length} résultat${s} dans les ${DOSS.length} mandats` : `${rows.length} promesse${s} affichée${s}${state.phare ? " : les promesses phares" : ""}`;
+  more.hidden = !!state.q || !state.phare;
+  more.textContent = `Voir les ${d.n} promesses de ${d.name}`;
+  document.getElementById("ledger").innerHTML = rows.length ? rows.map(([dd, e]) => {
     const inV = new Set(e.verdicts.map(v => v.url));
     const extra = e.sources.filter(u => !inV.has(u));
     return `<div class="row">
       <span class="num">${String(e.n).padStart(2, "0")}</span>
       <div>
-        <div class="theme">${esc(e.theme)}</div>
+        <div class="theme">${state.q ? `<span style="color:${dd.col}">${dd.name}</span> · ` : ""}${esc(e.theme)}</div>
         <div class="eng">${esc(e.engagement)}${e.poids === 3 ? '<span class="tag phare">phare</span>' : ""}${e.flag ? '<span class="flag">avis divergent</span>' : ""}${e.crise ? `<span class="tag crise" title="${esc(e.crise_note || "")}">${esc(e.crise)}</span>` : ""}</div>
         <p class="txt">${esc(e.note)}</p>
         <div class="verdicts">${e.verdicts.map(v => { const inner = `${esc(v.src)} : <b>${LABEL[v.statut] || "sans verdict"}</b>`;
