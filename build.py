@@ -80,6 +80,12 @@ tpl = open(os.path.join(HERE, "bilans.tpl.html"), encoding="utf-8").read()
 out = tpl.replace("__DATA__", "const DATA = " + json.dumps(data, ensure_ascii=False) + ";")
 assert "—" not in out, "em dash in output"
 open(os.path.join(HERE, "bilans.html"), "w", encoding="utf-8").write(out)
-open(os.path.join(HERE, "preview.html"), "w", encoding="utf-8").write(
-    '<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">' + out + "</html>")
+HEAD = '<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">'
+open(os.path.join(HERE, "preview.html"), "w", encoding="utf-8").write(HEAD + out + "</html>")
+# index.html is the GitHub Pages page; og.png is a 1200x630 headless Chrome screenshot of preview.html
+SITE = "https://figu3.github.io/bilans-presidentiels/"
+SHARE = (f'<meta property="og:url" content="{SITE}"><meta property="og:image" content="{SITE}og.png">'
+         '<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">'
+         '<meta name="twitter:card" content="summary_large_image">')
+open(os.path.join(HERE, "index.html"), "w", encoding="utf-8").write(HEAD + SHARE + out + "</html>")
 print("built", {k: len(v["eng"]) for k, v in data.items() if k != "meta"}, file=sys.stderr)
